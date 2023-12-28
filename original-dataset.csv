@@ -1,0 +1,1850 @@
+area,price,location,city,location_cat
+125,5000000,Warsak Road,Peshawar,Low
+125,4700000,DHA Phase 1,Peshawar,Low
+125,9600000,DHA Defence,Peshawar,Medium
+125,8800000,Regi Model Town,Peshawar,Medium
+125,4500000,Warsak Road,Peshawar,Low
+125,9000000,DHA Defence,Peshawar,Medium
+125,4800000,DHA Phase 1,Peshawar,Low
+125,4900000,DHA Phase 1,Peshawar,Low
+125,5000000,DHA Phase 1,Peshawar,Low
+125,7250000,DHA Phase 1,Peshawar,Medium
+125,8500000,DHA Defence,Peshawar,Medium
+125,8600000,Regi Model Town,Peshawar,Medium
+125,8400000,Regi Model Town,Peshawar,Medium
+125,8199999,Regi Model Town,Peshawar,Medium
+125,3600000,Regi Model Town,Peshawar,Low
+125,3700000,Regi Model Town,Peshawar,Low
+125,3800000,Regi Model Town,Peshawar,Low
+125,4000000,Regi Model Town,Peshawar,Low
+125,4500000,Regi Model Town,Peshawar,Low
+125,1700000,Regi Model Town,Peshawar,Low
+125,1900000,Regi Model Town,Peshawar,Low
+125,2200000,Regi Model Town,Peshawar,Low
+125,6000000,Warsak Road,Peshawar,Low
+125,9200000,DHA Defence,Peshawar,Medium
+125,22000000,Hayatabad,Peshawar,High
+125,8300000,Regi Model Town Phase 4,Peshawar,Medium
+125,8700000,Regi Model Town Phase 3,Peshawar,Medium
+125,8800000,Regi Model Town Phase 3,Peshawar,Medium
+125,8300000,Regi Model Town Phase 3,Peshawar,Medium
+125,3500000,Regi Model Town Phase 1,Peshawar,Low
+125,9200000,Regi Model Town Phase 3,Peshawar,Medium
+125,3800000,Regi Model Town Phase 1,Peshawar,Low
+125,5300000,Regi Model Town Phase 1,Peshawar,Low
+125,6500000,Regi Model Town,Peshawar,Medium
+125,2700000,Airport Green Garden,Islamabad,Low
+125,5500000,Top City 1,Islamabad,Low
+125,2500000,PECHS,Islamabad,Low
+125,6000000,Top City 1,Islamabad,Low
+125,2800000,Kashmir Highway,Islamabad,Low
+125,6800000,Bahria Town,Islamabad,Medium
+125,8199999,I-12,Islamabad,Medium
+125,10200000,Bahria Enclave,Islamabad,Medium
+125,1400000,DHA Defence,Islamabad,Low
+125,8400000,I-12,Islamabad,Medium
+125,3000000,Kashmir Highway,Islamabad,Low
+125,9000000,Park View City,Islamabad,Medium
+125,8000000,Park View City,Islamabad,Medium
+125,8300000,DHA Defence,Islamabad,Medium
+125,8600000,Bahria Enclave,Islamabad,Medium
+125,4500000,Park View City,Islamabad,Low
+125,1320000,DHA Defence,Islamabad,Low
+125,2200000,DHA Valley,Islamabad,Low
+125,6400000,MPCHS - Multi Gardens,Islamabad,Medium
+125,9500000,Bahria Enclave,Islamabad,Medium
+125,4300000,Kashmir Highway,Islamabad,Low
+125,6300000,Bahria Garden City,Islamabad,Low
+125,5600000,DHA Defence Phase 3,Islamabad,Low
+125,7100000,I-15,Islamabad,Medium
+125,3000000,PECHS,Islamabad,Low
+125,6500000,I-15,Islamabad,Medium
+125,5000000,DHA Defence,Islamabad,Low
+125,8500000,I-12,Islamabad,Medium
+125,2600000,PECHS,Islamabad,Low
+125,6700000,I-15,Islamabad,Medium
+125,1450000,DHA Defence,Islamabad,Low
+125,3500000,Tarnol,Islamabad,Low
+125,5200000,MPCHS - Multi Gardens,Islamabad,Low
+125,5800000,Top City 1,Islamabad,Low
+125,3500000,Kashmir Highway,Islamabad,Low
+125,12000000,I-12,Islamabad,Medium
+125,7700000,Bahria Enclave,Islamabad,Medium
+125,5000000,Top City 1,Islamabad,Low
+125,2500000,Kashmir Highway,Islamabad,Low
+125,1800000,Kashmir Highway,Islamabad,Low
+125,4500000,Kashmir Highway,Islamabad,Low
+125,11500000,DHA Defence Phase 5,Islamabad,Medium
+125,5200000,Top City 1,Islamabad,Low
+125,3200000,Kashmir Highway,Islamabad,Low
+125,2900000,Kashmir Highway,Islamabad,Low
+125,7000000,Park View City,Islamabad,Medium
+125,8500000,Park View City,Islamabad,Medium
+125,5600000,Top City 1,Islamabad,Low
+125,7000000,Top City 1,Islamabad,Medium
+125,4000000,Kashmir Highway,Islamabad,Low
+125,12500000,DHA Defence Phase 5,Islamabad,Medium
+125,3500000,D-17,Islamabad,Low
+125,5500000,Park View City,Islamabad,Low
+125,6000000,Park View City,Islamabad,Low
+125,6500000,Park View City,Islamabad,Medium
+125,7500000,Bahria Town,Islamabad,Medium
+125,6300000,I-15,Islamabad,Low
+125,7400000,I-15,Islamabad,Medium
+125,5000000,Park View City,Islamabad,Low
+125,15000000,Park View City,Islamabad,Medium
+125,5000000,Central Park Housing Scheme,Lahore,Low
+125,4000000,LDA City Phase 1 - Jinnah Sector,Lahore,Low
+125,5800000,Park View City,Lahore,Low
+125,4500000,Central Park Housing Scheme,Lahore,Low
+125,7600000,DHA Phase 9 Prism,Lahore,Medium
+125,7200000,Park View City,Lahore,Medium
+125,3600000,Park View City,Lahore,Low
+125,7800000,Park View City,Lahore,Medium
+125,2500000,Al-Kabir Town - Phase 2,Lahore,Low
+125,12500000,Etihad Town,Lahore,Medium
+125,4000000,Park View City,Lahore,Low
+125,4800000,Park View City,Lahore,Low
+125,3500000,Central Park Housing Scheme,Lahore,Low
+125,5300000,DHA 9 Town,Lahore,Low
+125,7500000,Park View City,Lahore,Medium
+125,6500000,DHA Phase 9 Prism,Lahore,Medium
+125,7800000,Lake City - Sector M-8,Lahore,Medium
+125,6900000,DHA Phase 9 Prism,Lahore,Medium
+125,5500000,Khayaban-e-Amin,Lahore,Low
+125,6700000,Khayaban-e-Amin,Lahore,Medium
+125,7000000,Al-Kabir Town - Phase 2,Lahore,Medium
+125,7900000,Bahria Town,Lahore,Medium
+125,9900000,DHA 9 Town,Lahore,Medium
+125,10000000,DHA 9 Town,Lahore,Medium
+125,6300000,DHA Defence,Lahore,Low
+125,7500000,Bahria Town - Sector E,Lahore,Medium
+125,3300000,Grand Avenues Housing Scheme,Lahore,Low
+125,4500000,Bahria Orchard Phase 4,Lahore,Low
+125,3200000,New Lahore City - Phase 3,Lahore,Low
+125,4099999,New Lahore City - Phase 3,Lahore,Low
+125,6800000,DHA Phase 9 Prism,Lahore,Medium
+125,10600000,DHA 9 Town,Lahore,Medium
+125,11000000,Lake City - Sector M-7,Lahore,Medium
+125,6500000,Park View City,Lahore,Medium
+125,6000000,Park View City,Lahore,Low
+125,4400000,Park View City,Lahore,Low
+125,2900000,Khayaban-e-Amin,Lahore,Low
+125,5400000,Khayaban-e-Amin,Lahore,Low
+125,6000000,Al-Kabir Town - Phase 2,Lahore,Low
+125,7900000,Midcity,Lahore,Medium
+125,5500000,Central Park Housing Scheme,Lahore,Low
+125,10200000,Paragon City,Lahore,Medium
+125,11200000,Etihad Town Phase 1,Lahore,Medium
+125,8500000,Lake City - Sector M-7,Lahore,Medium
+125,5500000,DHA Defence,Lahore,Low
+125,5500000,Al Rehman Garden,Lahore,Low
+125,8000000,Khayaban-e-Amin,Lahore,Medium
+125,3200000,Al-Noor Orchard,Lahore,Low
+125,11000000,DHA 11 Rahbar Phase 2,Lahore,Medium
+125,3200000,Low Cost Sector,Lahore,Low
+125,9500000,Lake City,Lahore,Medium
+125,1750000,Cantt,Lahore,Low
+125,4320000,Etihad Town,Lahore,Low
+125,9000000,DHA Defence,Lahore,Medium
+125,8300000,DHA 11 Rahbar Phase 2 Extension,Lahore,Medium
+125,8500000,Central Park Housing Scheme,Lahore,Medium
+125,14000000,Paragon City,Lahore,Medium
+125,5600000,Khayaban-e-Amin,Lahore,Low
+125,12500000,Paragon City,Lahore,Medium
+125,3500000,Bahria Orchard,Lahore,Low
+125,7500000,DHA 11 Rahbar Phase 4,Lahore,Medium
+125,7700000,DHA 11 Rahbar Phase 2 Extension,Lahore,Medium
+125,7500000,Nasheman-e-Iqbal Phase 2,Lahore,Medium
+125,7500000,DHA 11 Rahbar Phase 2,Lahore,Medium
+125,12500000,Bahria Town - Sector E,Lahore,Medium
+125,5000000,Park View City,Lahore,Low
+125,16000000,DHA Defence,Lahore,Medium
+125,12000000,DHA Phase 8,Lahore,Medium
+125,10200000,DHA 11 Rahbar Phase 2,Lahore,Medium
+125,5800000,Bahria Nasheman,Lahore,Low
+125,7000000,Khayaban-e-Amin,Lahore,Medium
+125,4000000,New Lahore City - Phase 3,Lahore,Low
+125,7000000,Nasheman-e-Iqbal Phase 2,Lahore,Medium
+125,5500000,Park View City,Lahore,Low
+125,4500000,Park View City,Lahore,Low
+125,7200000,DHA Phase 9 Prism,Lahore,Medium
+125,7300000,DHA Phase 8,Lahore,Medium
+125,11200000,DHA 9 Town,Lahore,Medium
+125,3800000,New Lahore City - Phase 3,Lahore,Low
+125,5500000,New Lahore City - Phase 2,Lahore,Low
+125,3000000,New Lahore City - Phase 3,Lahore,Low
+125,7500000,Al Rehman Garden,Lahore,Medium
+125,1900000,Safari Garden Housing Scheme,Lahore,Low
+125,6700000,Al-Kabir Town - Phase 2,Lahore,Medium
+125,6000000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,4200000,Central Park Housing Scheme,Lahore,Low
+125,6000000,Bahria Town - Sector F,Lahore,Low
+125,2700000,NFC 2,Lahore,Low
+125,2400000,NFC 2,Lahore,Low
+125,12000000,DHA 9 Town,Lahore,Medium
+125,4000000,Central Park Housing Scheme,Lahore,Low
+125,8500000,Park View City,Lahore,Medium
+125,3300000,Central Park Housing Scheme,Lahore,Low
+125,7000000,Park View City,Lahore,Medium
+125,6000000,Central Park Housing Scheme,Lahore,Low
+125,4500000,Wagha Town,Lahore,Low
+125,7500000,Paragon City,Lahore,Medium
+125,6800000,Park View City,Lahore,Medium
+125,9000000,Park View City,Lahore,Medium
+125,13000000,Paragon City,Lahore,Medium
+125,13500000,Paragon City,Lahore,Medium
+125,10000000,Paragon City,Lahore,Medium
+125,9200000,Paragon City,Lahore,Medium
+125,6000000,DHA Phase 9 Prism,Lahore,Low
+125,4500000,Bahria Orchard,Lahore,Low
+125,2800000,Al-Kabir Town - Phase 2,Lahore,Low
+125,12700000,Paragon City,Lahore,Medium
+125,2160000,GT Road,Lahore,Low
+125,13000000,Bahria Town - Sector D,Lahore,Medium
+125,4600000,Central Park Housing Scheme,Lahore,Low
+125,5200000,Central Park Housing Scheme,Lahore,Low
+125,7500000,Defence Road,Lahore,Medium
+125,6200000,Central Park Housing Scheme,Lahore,Low
+125,14000000,DHA Defence,Lahore,Medium
+125,3400000,Central Park Housing Scheme,Lahore,Low
+125,6300000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,3800000,Central Park Housing Scheme,Lahore,Low
+125,8000000,DHA Phase 9 Prism,Lahore,Medium
+125,5300000,Park View City,Lahore,Low
+125,6600000,Park View City,Lahore,Medium
+125,13600000,DHA Phase 7,Lahore,Medium
+125,7950000,Park View City,Lahore,Medium
+125,9300000,DHA 11 Rahbar Phase 2,Lahore,Medium
+125,10000000,DHA 11 Rahbar Phase 2 Extension,Lahore,Medium
+125,5000000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,13000000,DHA 9 Town,Lahore,Medium
+125,12700000,DHA 9 Town,Lahore,Medium
+125,12800000,DHA 9 Town,Lahore,Medium
+125,8000000,Park View City,Lahore,Medium
+125,3600000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,10500000,DHA 9 Town,Lahore,Medium
+125,3500000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,7400000,DHA Phase 9 Prism,Lahore,Medium
+125,8199999,DHA Phase 9 Prism,Lahore,Medium
+125,10000000,DHA Phase 9 Prism,Lahore,Medium
+125,4620000,Bismillah Housing Scheme,Lahore,Low
+125,2500000,Bahria Education & Medical City,Lahore,Low
+125,9200000,DHA Phase 9 Prism,Lahore,Medium
+125,5200000,Park View City,Lahore,Low
+125,5700000,Park View City,Lahore,Low
+125,9000000,DHA Phase 9 Prism,Lahore,Medium
+125,1200000,GT Road,Lahore,Low
+125,3200000,Bahria Orchard,Lahore,Low
+125,8620000,Bismillah Housing Scheme,Lahore,Medium
+125,6300000,Park View City,Lahore,Low
+125,7300000,Park View City,Lahore,Medium
+125,4600000,Park View City,Lahore,Low
+125,4300000,Park View City,Lahore,Low
+125,4099999,Park View City,Lahore,Low
+125,6350000,Ferozepur Road,Lahore,Low
+125,9300000,DHA Phase 9 Prism,Lahore,Medium
+125,4000000,Chinar Bagh,Lahore,Low
+125,3500000,Chinar Bagh,Lahore,Low
+125,5200000,Khayaban-e-Amin,Lahore,Low
+125,2800000,Khayaban-e-Amin,Lahore,Low
+125,4400000,Khayaban-e-Amin,Lahore,Low
+125,7200000,Lake City - Sector M-8,Lahore,Medium
+125,6500000,Lake City - Sector M-7,Lahore,Medium
+125,4400000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,5500000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,5700000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,4200000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,5300000,DHA 11 Rahbar Phase 4,Lahore,Low
+125,5000000,Fazaia Housing Scheme,Lahore,Low
+125,5000000,Chinar Bagh,Lahore,Low
+125,9500000,DHA Defence,Lahore,Medium
+125,10100000,DHA 11 Rahbar Phase 2,Lahore,Medium
+125,7400000,Park View City,Lahore,Medium
+125,8500000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Medium
+125,7500000,Bahria Town Phase 8,Rawalpindi,Medium
+125,1750000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+125,6800000,Bahria Town Phase 8,Rawalpindi,Medium
+125,1750000,Bahria Town Phase 8,Rawalpindi,Low
+125,6500000,Bahria Town Phase 8,Rawalpindi,Medium
+125,7600000,Bahria Town Phase 8,Rawalpindi,Medium
+125,1300000,CBR Town Phase 2,Rawalpindi,Low
+125,3000000,CBR Town Phase 2,Rawalpindi,Low
+125,2800000,Bahria Town Phase 8,Rawalpindi,Low
+125,2920000,Bahria Town Phase 8,Rawalpindi,Low
+125,8000000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Medium
+125,1580000,Chakri Road,Rawalpindi,Low
+125,5200000,Taj Residencia,Rawalpindi,Low
+125,9000000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Medium
+125,8000000,Bahria Town Phase 8,Rawalpindi,Medium
+125,3000000,UpCountry Enclosures Housing Society,Rawalpindi,Low
+125,7000000,Bahria Town Phase 8,Rawalpindi,Medium
+125,3000000,Bahria Town Phase 8,Rawalpindi,Low
+125,8600000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Medium
+125,8400000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Medium
+125,2000000,Bahria Town Phase 8,Rawalpindi,Low
+125,1000000,Chakri Road,Rawalpindi,Low
+125,1800000,Chakri Road,Rawalpindi,Low
+125,2200000,Chakri Road,Rawalpindi,Low
+125,2000000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+125,2100000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+125,2200000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+125,5600000,Bahria Town Phase 8,Rawalpindi,Low
+125,8500000,Bahria Greens - Overseas Enclave,Rawalpindi,Medium
+125,7200000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Medium
+125,6000000,Bahria Town Phase 8,Rawalpindi,Low
+500,24500000,DHA Phase 1,Peshawar,Low
+500,21000000,DHA Phase 1,Peshawar,Low
+500,22500000,DHA Phase 1,Peshawar,Low
+500,22000000,DHA Phase 1,Peshawar,Low
+500,18000000,DHA Phase 1,Peshawar,Low
+500,19000000,DHA Phase 1,Peshawar,Low
+500,20000000,DHA Phase 1,Peshawar,Low
+500,17500000,DHA Defence,Peshawar,Low
+500,19500000,DHA Phase 1,Peshawar,Low
+500,17500000,DHA Phase 1,Peshawar,Low
+500,18000000,Regi Model Town,Peshawar,Low
+500,14500000,Regi Model Town,Peshawar,Low
+500,13500000,Regi Model Town,Peshawar,Low
+500,15500000,Regi Model Town,Peshawar,Low
+500,23500000,DHA Phase 1,Peshawar,Low
+500,18800000,DHA Phase 1,Peshawar,Low
+500,18500000,DHA Phase 1,Peshawar,Low
+500,19800000,DHA Phase 1,Peshawar,Low
+500,20300000,DHA Phase 1,Peshawar,Low
+500,20800000,DHA Phase 1,Peshawar,Low
+500,21500000,DHA Phase 1,Peshawar,Low
+500,21800000,DHA Phase 1,Peshawar,Low
+500,22200000,DHA Phase 1,Peshawar,Low
+500,20500000,DHA Phase 1,Peshawar,Low
+500,20800000,Regi Model Town Phase 4,Peshawar,Low
+500,22000000,DHA Defence,Peshawar,Low
+500,53500000,Hayatabad Phase 7,Peshawar,Medium
+500,23000000,DHA Defence,Peshawar,Low
+500,21000000,Regi Model Town Phase 4,Peshawar,Low
+500,20500000,Regi Model Town Phase 3,Peshawar,Low
+500,13200000,Regi Model Town Phase 1,Peshawar,Low
+500,17000000,Regi Model Town Phase 3,Peshawar,Low
+500,18000000,Regi Model Town Phase 4,Peshawar,Low
+500,57500000,Hayatabad Phase 6,Peshawar,Medium
+500,21500000,DHA Defence,Peshawar,Low
+500,26200000,DHA Defence,Peshawar,Low
+500,26500000,DHA Phase 1,Peshawar,Low
+500,15300000,DHA Phase 1,Peshawar,Low
+500,19500000,DHA Defence,Peshawar,Low
+500,20000000,DHA Defence,Peshawar,Low
+500,20500000,DHA Defence,Peshawar,Low
+500,21000000,DHA Defence,Peshawar,Low
+500,25000000,DHA Defence,Peshawar,Low
+500,25500000,DHA Defence,Peshawar,Low
+500,26000000,DHA Defence,Peshawar,Low
+500,26500000,DHA Defence,Peshawar,Low
+500,48000000,Hayatabad Phase 1,Peshawar,Medium
+500,24000000,DHA Phase 1,Peshawar,Low
+500,43500000,DHA Defence,Islamabad,Medium
+500,51500000,DHA Defence,Islamabad,Medium
+500,44000000,DHA Defence,Islamabad,Medium
+500,26500000,DHA Defence Phase 4,Islamabad,Low
+500,47000000,DHA Defence Phase 2,Islamabad,Medium
+500,22000000,Gulberg Residencia,Islamabad,Low
+500,42500000,DHA Defence,Islamabad,Medium
+500,38500000,DHA Defence,Islamabad,Medium
+500,36500000,DHA Defence Phase 2,Islamabad,Medium
+500,45500000,DHA Defence Phase 2,Islamabad,Medium
+500,57500000,DHA Defence Phase 2,Islamabad,Medium
+500,14000000,Gulberg Residencia,Islamabad,Low
+500,62500000,G-14,Islamabad,Medium
+500,24800000,MPCHS - Multi Gardens,Islamabad,Low
+500,27500000,DHA Defence Phase 5,Islamabad,Medium
+500,47500000,DHA Defence,Islamabad,Medium
+500,9000000,AGHOSH Phase 2,Islamabad,Low
+500,15000000,AGHOSH Phase 2,Islamabad,Low
+500,16000000,Gulberg Residencia,Islamabad,Low
+500,28000000,Gulberg Residencia,Islamabad,Medium
+500,28500000,DHA Defence Phase 4,Islamabad,Medium
+500,50000000,DHA Defence Phase 2,Islamabad,Medium
+500,58000000,DHA Defence Phase 2,Islamabad,Medium
+500,22000000,Top City 1,Islamabad,Low
+500,49000000,DHA Defence Phase 2,Islamabad,Medium
+500,32500000,Gulberg Residencia,Islamabad,Medium
+500,21000000,D-17,Islamabad,Low
+500,18500000,D-17,Islamabad,Low
+500,46500000,DHA Defence Phase 2,Islamabad,Medium
+500,55000000,Park Enclave,Islamabad,Medium
+500,38000000,G-16,Islamabad,Medium
+500,37500000,Bahria Enclave,Islamabad,Medium
+500,25500000,DHA Defence Phase 4,Islamabad,Low
+500,51000000,DHA Defence Phase 2,Islamabad,Medium
+500,46000000,DHA Defence,Islamabad,Medium
+500,50000000,DHA Defence,Islamabad,Medium
+500,20000000,Top City 1,Islamabad,Low
+500,37000000,DHA Defence Phase 5,Islamabad,Medium
+500,35000000,DHA Defence,Islamabad,Medium
+500,35000000,DHA Defence Phase 5,Islamabad,Medium
+500,55000000,DHA Defence,Islamabad,Medium
+500,16000000,AGHOSH Phase 2,Islamabad,Low
+500,14000000,AGHOSH Phase 2,Islamabad,Low
+500,35000000,DHA Defence Phase 1,Islamabad,Medium
+500,32000000,DHA Defence Phase 5,Islamabad,Medium
+500,22500000,DHA Defence,Islamabad,Low
+500,20000000,DHA Defence Phase 5,Islamabad,Low
+500,35500000,DHA Defence Phase 5,Islamabad,Medium
+500,29500000,DHA Defence Phase 5,Islamabad,Medium
+500,29500000,DHA Defence,Islamabad,Medium
+500,17000000,AGHOSH Phase 2,Islamabad,Low
+500,14500000,AGHOSH Phase 2,Islamabad,Low
+500,12000000,AGHOSH Phase 2,Islamabad,Low
+500,11000000,AGHOSH Phase 2,Islamabad,Low
+500,57000000,DHA Defence Phase 2,Islamabad,Medium
+500,17500000,DHA Defence Phase 3,Islamabad,Low
+500,104500000,D-12,Islamabad,High
+500,14000000,MPCHS - Multi Gardens,Islamabad,Low
+500,12000000,Park Road Housing Scheme,Islamabad,Low
+500,25000000,DHA Defence Phase 5,Islamabad,Low
+500,7500000,E-16/1,Islamabad,Low
+500,23000000,DHA Defence,Islamabad,Low
+500,26500000,DHA Defence Phase 5,Islamabad,Low
+500,55500000,DHA Defence Phase 2,Islamabad,Medium
+500,55000000,DHA Defence Phase 2,Islamabad,Medium
+500,36000000,DHA Defence Phase 5,Islamabad,Medium
+500,13500000,AGHOSH Phase 2,Islamabad,Low
+500,13000000,AGHOSH Phase 2,Islamabad,Low
+500,12500000,AGHOSH Phase 2,Islamabad,Low
+500,33500000,Bahria Enclave,Islamabad,Medium
+500,26000000,DHA Defence Phase 4,Islamabad,Low
+500,31000000,DHA Defence Phase 5,Islamabad,Medium
+500,45000000,DHA Defence Phase 2,Islamabad,Medium
+500,25000000,Gulberg Residencia,Islamabad,Low
+500,37000000,DHA Defence Phase 2,Islamabad,Medium
+500,31800000,DHA Defence Phase 5,Islamabad,Medium
+500,12500000,Kashmir Highway,Islamabad,Low
+500,20500000,Top City 1,Islamabad,Low
+500,34000000,DHA Defence,Islamabad,Medium
+500,12500000,Gulberg Residencia,Islamabad,Low
+500,16500000,DHA Defence Phase 5,Islamabad,Low
+500,40000000,DHA Defence Phase 2,Islamabad,Medium
+500,18500000,Top City 1,Islamabad,Low
+500,16000000,Top City 1,Islamabad,Low
+500,26500000,DHA Defence,Islamabad,Low
+500,42500000,DHA Defence Phase 1,Islamabad,Medium
+500,21000000,National Police Foundation O-9,Islamabad,Low
+500,22000000,National Police Foundation O-9,Islamabad,Low
+500,23000000,National Police Foundation O-9,Islamabad,Low
+500,11000000,MPCHS - Multi Gardens,Islamabad,Low
+500,30000000,Gulberg Residencia,Islamabad,Medium
+500,31500000,DHA Defence Phase 5,Islamabad,Medium
+500,24000000,National Police Foundation O-9,Islamabad,Low
+500,26000000,National Police Foundation O-9,Islamabad,Low
+500,10000000,DHA Defence Phase 6,Islamabad,Low
+500,44000000,DHA Defence Phase 2,Islamabad,Medium
+500,25500000,DHA Defence Phase 5,Islamabad,Low
+500,5500000,Gulberg Residencia,Islamabad,Low
+500,27500000,Bahria Enclave,Islamabad,Medium
+500,47000000,G-14,Islamabad,Medium
+500,3600000,G-16,Islamabad,Low
+500,11500000,D-18,Islamabad,Low
+500,45500000,DHA Defence,Islamabad,Medium
+500,22500000,DHA Defence Phase 4,Islamabad,Low
+500,19000000,DHA Defence,Islamabad,Low
+500,3800000,PECHS,Islamabad,Low
+500,6500000,PECHS,Islamabad,Low
+500,23500000,Top City 1,Islamabad,Low
+500,51000000,DHA Defence,Islamabad,Medium
+500,43500000,DHA Defence Phase 2,Islamabad,Medium
+500,9500000,DHA Defence,Islamabad,Low
+500,22500000,Top City 1,Islamabad,Low
+500,43000000,DHA Defence Phase 2,Islamabad,Medium
+500,5000000,PECHS,Islamabad,Low
+500,43500000,Park View City,Islamabad,Medium
+500,26000000,DHA Defence,Islamabad,Low
+500,10500000,DHA Defence Phase 6,Islamabad,Low
+500,5500000,PECHS,Islamabad,Low
+500,36000000,DHA Defence,Islamabad,Medium
+500,32500000,DHA Defence,Islamabad,Medium
+500,13500000,Gulberg Residencia,Islamabad,Low
+500,22500000,DHA Defence Phase 3,Islamabad,Low
+500,46000000,DHA Defence Phase 2,Islamabad,Medium
+500,52500000,DHA Defence Phase 2,Islamabad,Medium
+500,8800000,DHA Defence,Islamabad,Low
+500,9000000,DHA Defence,Islamabad,Low
+500,22000000,G-16,Islamabad,Low
+500,22500000,DHA Defence Phase 5,Islamabad,Low
+500,43000000,DHA Defence,Islamabad,Medium
+500,27500000,Gulberg Greens,Islamabad,Medium
+500,34000000,Gulberg Residencia,Islamabad,Medium
+500,45000000,DHA Defence,Islamabad,Medium
+500,45000000,DHA Defence Phase 1,Islamabad,Medium
+500,31000000,DHA Defence,Islamabad,Medium
+500,39500000,DHA Defence Phase 1,Islamabad,Medium
+500,18500000,DHA Defence Phase 3,Islamabad,Low
+500,36000000,DHA Defence Phase 1,Islamabad,Medium
+500,23500000,DHA Defence,Islamabad,Low
+500,30500000,DHA Defence Phase 5,Islamabad,Medium
+500,11500000,DHA Defence Phase 6,Islamabad,Low
+500,29000000,DHA Defence Phase 5,Islamabad,Medium
+500,22800000,DHA Defence Phase 5,Islamabad,Low
+500,21200000,DHA Defence Phase 5,Islamabad,Low
+500,28300000,DHA Defence Phase 5,Islamabad,Medium
+500,19500000,Top City 1,Islamabad,Low
+500,25000000,DHA Defence Phase 4,Islamabad,Low
+500,27000000,DHA Defence Phase 5,Islamabad,Low
+500,40000000,DHA Defence Phase 1,Islamabad,Medium
+500,15500000,DHA Defence Phase 3,Islamabad,Low
+500,24000000,DHA Defence Phase 4,Islamabad,Low
+500,27500000,DHA Defence Phase 4,Islamabad,Medium
+500,18000000,DHA Defence Phase 3,Islamabad,Low
+500,16500000,DHA Defence Phase 3,Islamabad,Low
+500,11000000,DHA Defence Phase 6,Islamabad,Low
+500,31000000,Gulberg Residencia,Islamabad,Medium
+500,7500000,Gulberg Residencia,Islamabad,Low
+500,6000000,Gulberg Residencia,Islamabad,Low
+500,16700000,DHA Defence Phase 3,Islamabad,Low
+500,33000000,DHA Defence Phase 5,Islamabad,Medium
+500,17500000,DHA Defence Phase 6,Islamabad,Low
+500,9500000,DHA Defence Phase 6,Islamabad,Low
+500,8600000,DHA Defence,Islamabad,Low
+500,13500000,Top City 1,Islamabad,Low
+500,12300000,Gulberg Residencia,Islamabad,Low
+500,50000000,G-14,Islamabad,Medium
+500,13500000,Kashmir Highway,Islamabad,Low
+500,33800000,Gulberg Residencia,Islamabad,Medium
+500,36000000,Bahria Enclave,Islamabad,Medium
+500,52000000,G-14,Islamabad,Medium
+500,42500000,G-14,Islamabad,Medium
+500,16000000,D-13,Islamabad,Low
+500,97500000,D-12,Islamabad,Medium
+500,17000000,Top City 1,Islamabad,Low
+500,57500000,G-14,Islamabad,Medium
+500,37000000,DHA Defence,Islamabad,Medium
+500,22000000,DHA Defence,Islamabad,Low
+500,34000000,DHA Defence Phase 5,Islamabad,Medium
+500,18000000,Top City 1,Islamabad,Low
+500,13200000,DHA Defence Phase 3,Islamabad,Low
+500,14200000,DHA Defence Phase 3,Islamabad,Low
+500,12000000,DHA Defence Phase 3,Islamabad,Low
+500,23500000,Bahria Enclave,Islamabad,Low
+500,12200000,DHA Defence Phase 3,Islamabad,Low
+500,20500000,DHA Defence Phase 3,Islamabad,Low
+500,33000000,DHA Defence,Islamabad,Medium
+500,16000000,Fazaia Housing Scheme,Islamabad,Low
+500,27000000,Gulberg Residencia,Islamabad,Low
+500,6800000,DHA City Karachi,Karachi,Low
+500,10500000,DHA City - Sector 5,Karachi,Low
+500,9500000,DHA City - Sector 6,Karachi,Low
+500,7700000,DHA City - Sector 10,Karachi,Low
+500,8450000,DHA City - Sector 9,Karachi,Low
+500,9200000,DHA City - Sector 7,Karachi,Low
+500,11100000,DHA City - Sector 3,Karachi,Low
+500,4000000,Bahria Town Karachi,Karachi,Low
+500,6500000,Bahria Town Karachi,Karachi,Low
+500,12000000,Bahria Paradise,Karachi,Low
+500,10500000,Bahria Paradise,Karachi,Low
+500,9000000,Bahria Town Karachi,Karachi,Low
+500,11000000,Bahria Town Karachi,Karachi,Low
+500,6000000,Bahria Town Karachi,Karachi,Low
+500,9500000,Bahria Town Karachi,Karachi,Low
+500,15500000,Bahria Town Karachi,Karachi,Low
+500,13000000,Bahria Town Karachi,Karachi,Low
+500,7000000,Bahria Town Karachi,Karachi,Low
+500,8500000,Bahria Town Karachi,Karachi,Low
+500,4500000,Bahria Town Karachi,Karachi,Low
+500,7500000,Bahria Sports City,Karachi,Low
+500,13500000,Bahria Town Karachi,Karachi,Low
+500,11500000,Bahria Town Karachi,Karachi,Low
+500,9500000,DHA City - Sector 5,Karachi,Low
+500,9000000,DHA City - Sector 5,Karachi,Low
+500,11000000,DHA City - Sector 3,Karachi,Low
+500,13000000,DHA City - Sector 3,Karachi,Low
+500,8500000,DHA City - Sector 10,Karachi,Low
+500,9500000,DHA City - Sector 2,Karachi,Low
+500,3800000,Bahria Town Karachi,Karachi,Low
+500,9000000,Bahria Town - Precinct 20,Karachi,Low
+500,8800000,DHA City - Sector 7,Karachi,Low
+500,2800000,Bahria Town Karachi,Karachi,Low
+500,5200000,Bahria Town Karachi,Karachi,Low
+500,5500000,Bahria Town Karachi,Karachi,Low
+500,7000000,Bahria Sports City,Karachi,Low
+500,7000000,Bahria Paradise,Karachi,Low
+500,7500000,Bahria Paradise,Karachi,Low
+500,6500000,Bahria Paradise,Karachi,Low
+500,12000000,Bahria Town Karachi,Karachi,Low
+500,7500000,Bahria Town Karachi,Karachi,Low
+500,14000000,DHA City - Sector 3,Karachi,Low
+500,13500000,DHA City - Sector 3,Karachi,Low
+500,5400000,DHA City Karachi,Karachi,Low
+500,10500000,DHA City - Sector 2,Karachi,Low
+500,38500000,DHA Defence,Karachi,Medium
+500,70000000,DHA Defence,Karachi,Medium
+500,6200000,Bahria Town Karachi,Karachi,Low
+500,8000000,DHA City - Sector 10,Karachi,Low
+500,9000000,DHA City - Sector 7,Karachi,Low
+500,12500000,Bahria Town Karachi,Karachi,Low
+500,15000000,Bahria Town Karachi,Karachi,Low
+500,8000000,Bahria Town Karachi,Karachi,Low
+500,8000000,Bahria Paradise,Karachi,Low
+500,12500000,DHA City - Sector 2,Karachi,Low
+500,4500000,Bahria Sports City,Karachi,Low
+500,17500000,Murad Memon Goth,Karachi,Low
+500,9000000,DHA City - Sector 9,Karachi,Low
+500,8900000,DHA City - Sector 9,Karachi,Low
+500,13500000,DHA City Karachi,Karachi,Low
+500,49500000,DHA Defence,Karachi,Medium
+500,69000000,DHA Defence,Karachi,Medium
+500,16000000,Bahria Town Karachi,Karachi,Low
+500,11000000,DHA City - Sector 7,Karachi,Low
+500,17600000,Murad Memon Goth,Karachi,Low
+500,14000000,Bahria Town Karachi,Karachi,Low
+500,80000000,North Nazimabad,Karachi,Medium
+500,7500000,Gadap Town,Karachi,Low
+500,8800000,DHA City - Sector 6,Karachi,Low
+500,8400000,DHA City - Sector 15,Karachi,Low
+500,8000000,DHA City - Sector 16,Karachi,Low
+500,8900000,DHA City - Sector 11,Karachi,Low
+500,73500000,North Nazimabad,Karachi,Medium
+500,8000000,Gulshan-e-Hadeed,Karachi,Low
+500,10500000,Bahria Town Karachi,Karachi,Low
+500,40000000,DHA Phase 8,Karachi,Medium
+500,72500000,DHA Defence,Karachi,Medium
+500,4300000,ASF Housing Scheme,Karachi,Low
+500,90000000,DHA Defence,Karachi,Medium
+500,56000000,DHA Defence,Karachi,Medium
+500,57500000,DHA Defence,Karachi,Medium
+500,42500000,DHA Defence,Karachi,Medium
+500,51000000,DHA Defence,Karachi,Medium
+500,37000000,DHA Defence,Karachi,Medium
+500,12000000,DHA City - Sector 3,Karachi,Low
+500,9000000,DHA City Karachi,Karachi,Low
+500,5700000,DHA City - Sector 15,Karachi,Low
+500,6500000,Bahria Sports City,Karachi,Low
+500,9000000,Bahria Sports City,Karachi,Low
+500,16800000,DHA City - Sector 3,Karachi,Low
+500,75000000,DHA Defence,Karachi,Medium
+500,45500000,DHA Defence,Karachi,Medium
+500,6700000,Bahria Town Karachi,Karachi,Low
+500,8800000,DHA City - Sector 12,Karachi,Low
+500,7800000,DHA City - Sector 16,Karachi,Low
+500,10500000,DHA City - Sector 7,Karachi,Low
+500,14500000,Bahria Town Karachi,Karachi,Low
+500,60000000,DHA Defence,Karachi,Medium
+500,39500000,DHA Defence,Karachi,Medium
+500,8500000,DHA City - Sector 7,Karachi,Low
+500,9200000,DHA City - Sector 5,Karachi,Low
+500,7500000,DHA City - Sector 5,Karachi,Low
+500,37500000,DHA Defence,Karachi,Medium
+500,11500000,DHA City - Sector 3,Karachi,Low
+500,3600000,Bahria Town Karachi,Karachi,Low
+500,62500000,DHA Defence,Karachi,Medium
+500,52500000,DHA Defence,Karachi,Medium
+500,62500000,DHA Phase 8,Karachi,Medium
+500,45000000,DHA Defence,Karachi,Medium
+500,50000000,DHA Defence,Karachi,Medium
+500,65000000,DHA Defence,Karachi,Medium
+500,82500000,DHA Defence,Karachi,Medium
+500,80000000,DHA Defence,Karachi,Medium
+500,18200000,DHA City - Sector 12,Karachi,Low
+500,9000000,Bahria Paradise,Karachi,Low
+500,9100000,DHA City - Sector 6,Karachi,Low
+500,7500000,DHA City - Sector 16,Karachi,Low
+500,7000000,DHA City - Sector 15,Karachi,Low
+500,9500000,Bahria Paradise,Karachi,Low
+500,4800000,Bahria Town Karachi,Karachi,Low
+500,9200000,Bahria Town Karachi,Karachi,Low
+500,63000000,DHA Defence,Karachi,Medium
+500,94500000,DHA Defence,Karachi,Medium
+500,88500000,DHA Defence,Karachi,Medium
+500,44500000,DHA Defence,Karachi,Medium
+500,71000000,DHA Defence,Karachi,Medium
+500,43000000,DHA Defence,Karachi,Medium
+500,67500000,DHA Defence,Karachi,Medium
+500,87600000,DHA Defence,Karachi,Medium
+500,74000000,DHA Defence,Karachi,Medium
+500,48000000,DHA Phase 8,Karachi,Medium
+500,70000000,DHA Phase 8,Karachi,Medium
+500,51000000,DHA City Karachi,Karachi,Medium
+500,6700000,DHA City - Sector 15,Karachi,Low
+500,9300000,DHA City - Sector 6,Karachi,Low
+500,14500000,DHA City - Sector 3,Karachi,Low
+500,49000000,DHA Defence,Karachi,Medium
+500,58500000,DHA Defence,Karachi,Medium
+500,48500000,DHA Phase 8,Karachi,Medium
+500,73500000,DHA Defence,Karachi,Medium
+500,77500000,DHA Defence,Karachi,Medium
+500,72500000,DHA Phase 8,Karachi,Medium
+500,9500000,DHA City Karachi,Karachi,Low
+500,8900000,DHA City - Sector 7,Karachi,Low
+500,7100000,DHA City - Sector 12,Karachi,Low
+500,21000000,DHA Phase 9 Prism,Lahore,Low
+500,20000000,DHA Phase 9 Prism,Lahore,Low
+500,24500000,DHA Phase 9 Prism,Lahore,Low
+500,15500000,AWT Phase 2,Lahore,Low
+500,49000000,DHA Phase 6,Lahore,Medium
+500,67500000,DHA Phase 6,Lahore,Medium
+500,35500000,DHA Phase 7,Lahore,Medium
+500,29500000,DHA Phase 7,Lahore,Medium
+500,5500000,LDA Road,Lahore,Low
+500,6000000,LDA Road,Lahore,Low
+500,19500000,DHA Phase 9 Prism,Lahore,Low
+500,45500000,DHA Phase 8,Lahore,Medium
+500,19500000,Bahria Orchard Phase 4,Lahore,Low
+500,25800000,DHA Defence,Lahore,Low
+500,45000000,DHA Phase 7,Lahore,Medium
+500,16000000,LDA Avenue,Lahore,Low
+500,19500000,LDA Avenue,Lahore,Low
+500,14500000,LDA Avenue,Lahore,Low
+500,17500000,DHA Phase 9 Prism,Lahore,Low
+500,18500000,DHA Phase 9 Prism,Lahore,Low
+500,15000000,AWT Army Welfare Trust,Lahore,Low
+500,28000000,Lake City,Lahore,Medium
+500,37000000,DHA Phase 7,Lahore,Medium
+500,25500000,DHA Phase 7,Lahore,Low
+500,24500000,DHA Phase 7,Lahore,Low
+500,26500000,DHA Phase 9 Prism,Lahore,Low
+500,23500000,DHA Phase 9 Prism,Lahore,Low
+500,19000000,DHA Phase 9 Prism,Lahore,Low
+500,28500000,DHA Defence,Lahore,Medium
+500,25000000,DHA Phase 7,Lahore,Low
+500,26000000,Lake City,Lahore,Low
+500,27000000,DHA Phase 7,Lahore,Low
+500,23500000,DHA Phase 7,Lahore,Low
+500,17500000,IEP Engineers Town - Sector A,Lahore,Low
+500,16000000,IEP Engineers Town - Sector A,Lahore,Low
+500,33500000,DHA Phase 7,Lahore,Medium
+500,43000000,DHA Phase 8,Lahore,Medium
+500,26000000,Fazaia Housing Scheme,Lahore,Low
+500,19000000,AWT Army Welfare Trust,Lahore,Low
+500,17800000,AWT Phase 2,Lahore,Low
+500,14000000,AWT Phase 2,Lahore,Low
+500,16500000,AWT Phase 2,Lahore,Low
+500,21500000,DHA Phase 7,Lahore,Low
+500,19500000,DHA Defence,Lahore,Low
+500,35000000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+500,34000000,DHA Phase 8,Lahore,Medium
+500,44000000,DHA Phase 6,Lahore,Medium
+500,35000000,DHA Phase 8,Lahore,Medium
+500,14800000,AWT Phase 2,Lahore,Low
+500,13800000,AWT Phase 2,Lahore,Low
+500,12700000,AWT Phase 2,Lahore,Low
+500,21600000,DHA Phase 9 Prism,Lahore,Low
+500,22500000,DHA Phase 9 Prism,Lahore,Low
+500,21500000,LDA Avenue,Lahore,Low
+500,28500000,Fazaia Housing Scheme,Lahore,Medium
+500,7300000,Chinar Bagh,Lahore,Low
+500,22000000,IEP Engineers Town - Sector A,Lahore,Low
+500,31500000,Fazaia Housing Scheme,Lahore,Medium
+500,36000000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+500,31500000,Lake City,Lahore,Medium
+500,32500000,Lake City,Lahore,Medium
+500,32500000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+500,33500000,DHA 11 Rahbar Phase 1,Lahore,Medium
+500,55000000,DHA Phase 6,Lahore,Medium
+500,31000000,DHA Phase 7,Lahore,Medium
+500,18500000,Khayaban-e-Amin,Lahore,Low
+500,22000000,DHA Phase 7,Lahore,Low
+500,21200000,DHA Phase 7,Lahore,Low
+500,34000000,DHA Phase 7,Lahore,Medium
+500,30500000,DHA Phase 7,Lahore,Medium
+500,18500000,Bahria Town,Lahore,Low
+500,24000000,DHA Phase 7,Lahore,Low
+500,52500000,DHA Phase 6,Lahore,Medium
+500,65000000,DHA Phase 6,Lahore,Medium
+500,61000000,DHA Phase 6,Lahore,Medium
+500,33000000,DHA Phase 8,Lahore,Medium
+500,41000000,Sui Gas Society Phase 1,Lahore,Medium
+500,41000000,DHA Phase 8,Lahore,Medium
+500,26000000,DHA Phase 7,Lahore,Low
+500,10000000,Chinar Bagh,Lahore,Low
+500,18500000,DHA Phase 8,Lahore,Low
+500,32000000,DHA Phase 5,Lahore,Medium
+500,8500000,Cantt,Lahore,Low
+500,15500000,LDA Avenue,Lahore,Low
+500,43500000,DHA Phase 6,Lahore,Medium
+500,45000000,DHA Phase 8,Lahore,Medium
+500,51500000,DHA Phase 8,Lahore,Medium
+500,19500000,AWT Phase 2,Lahore,Low
+500,21500000,AWT Phase 2,Lahore,Low
+500,40000000,DHA Phase 7,Lahore,Medium
+500,32000000,Park View City,Lahore,Medium
+500,45000000,EME Society,Lahore,Medium
+500,30000000,Eden City,Lahore,Medium
+500,33500000,NFC 1,Lahore,Medium
+500,90000000,DHA Phase 7,Lahore,Medium
+500,32500000,DHA Phase 7,Lahore,Medium
+500,38500000,DHA 11 Rahbar Phase 1,Lahore,Medium
+500,30000000,Fazaia Housing Scheme,Lahore,Medium
+500,32500000,DHA Phase 6,Lahore,Medium
+500,22000000,DHA Phase 9 Prism,Lahore,Low
+500,36000000,DHA Phase 7,Lahore,Medium
+500,67000000,DHA Defence,Lahore,Medium
+500,6500000,LDA City Phase 1,Lahore,Low
+500,40000000,DHA Defence,Lahore,Medium
+500,13000000,Chinar Bagh,Lahore,Low
+500,11500000,Chinar Bagh,Lahore,Low
+500,45000000,DHA Phase 6,Lahore,Medium
+500,62500000,DHA Phase 6,Lahore,Medium
+500,42500000,DHA Phase 8,Lahore,Medium
+500,16500000,AWT Phase 1,Lahore,Low
+500,43500000,DHA Phase 8,Lahore,Medium
+500,30500000,Lake City,Lahore,Medium
+500,19000000,DHA Phase 7,Lahore,Low
+500,36800000,DHA Phase 7,Lahore,Medium
+500,20000000,DHA Phase 8,Lahore,Low
+500,32000000,DHA Phase 7,Lahore,Medium
+500,28500000,DHA Phase 7,Lahore,Medium
+500,30200000,DHA Phase 9 Prism,Lahore,Medium
+500,23000000,DHA Phase 9 Prism,Lahore,Low
+500,19500000,DHA Phase 7,Lahore,Low
+500,30000000,DHA Phase 7,Lahore,Medium
+500,15200000,LDA Avenue,Lahore,Low
+500,14000000,IEP Engineers Town,Lahore,Low
+500,34500000,DHA Defence,Lahore,Medium
+500,55000000,DHA Phase 8,Lahore,Medium
+500,31500000,DHA Phase 7,Lahore,Medium
+500,60000000,DHA Phase 6,Lahore,Medium
+500,16500000,DHA Defence,Lahore,Low
+500,31500000,DHA Phase 6,Lahore,Medium
+500,17000000,DHA Phase 9 Prism,Lahore,Low
+500,29000000,Lake City,Lahore,Medium
+500,20800000,IEP Engineers Town - Sector A,Lahore,Low
+500,15500000,IEP Engineers Town - Sector A,Lahore,Low
+500,21000000,Nespak Scheme Phase 3,Lahore,Low
+500,21500000,Nasheman-e-Iqbal,Lahore,Low
+500,12800000,TIP Housing Society,Lahore,Low
+500,44000000,Bahria Town - Sector C,Lahore,Medium
+500,45000000,Valencia Housing Society,Lahore,Medium
+500,42500000,Paragon City,Lahore,Medium
+500,16000000,Central Park Housing Scheme,Lahore,Low
+500,20500000,Nasheman-e-Iqbal,Lahore,Low
+500,29000000,DHA Phase 9 Prism,Lahore,Medium
+500,34500000,DHA Phase 7,Lahore,Medium
+500,62000000,DHA Phase 6,Lahore,Medium
+500,42000000,DHA Phase 6,Lahore,Medium
+500,15000000,DHA Phase 9 Prism,Lahore,Low
+500,33800000,DHA Phase 7,Lahore,Medium
+500,27000000,DHA Phase 9 Prism,Lahore,Low
+500,21500000,DHA Phase 9 Prism,Lahore,Low
+500,8000000,Cantt,Lahore,Low
+500,49000000,DHA Phase 8,Lahore,Medium
+500,32000000,DHA Phase 6,Lahore,Medium
+500,29800000,DHA Phase 9 Prism,Lahore,Medium
+500,32500000,Fazaia Housing Scheme,Lahore,Medium
+500,31500000,DHA Phase 9 Prism,Lahore,Medium
+500,16500000,AWT Army Welfare Trust,Lahore,Low
+500,37500000,DHA Phase 7,Lahore,Medium
+500,32500000,GT Road,Lahore,Medium
+500,38500000,DHA Phase 8,Lahore,Medium
+500,54000000,DHA Phase 8,Lahore,Medium
+500,18500000,AWT Phase 1,Lahore,Low
+500,24000000,DHA Phase 9 Prism,Lahore,Low
+500,21200000,DHA Phase 9 Prism,Lahore,Low
+500,8500000,Khayaban-e-Amin,Lahore,Low
+500,11000000,Khayaban-e-Amin,Lahore,Low
+500,44200000,DHA Phase 8,Lahore,Medium
+500,62500000,DHA Phase 8,Lahore,Medium
+500,22500000,DHA Phase 7,Lahore,Low
+500,38000000,DHA Phase 7,Lahore,Medium
+500,9500000,Chinar Bagh,Lahore,Low
+500,10500000,Chinar Bagh,Lahore,Low
+500,14500000,AWT Phase 2,Lahore,Low
+500,11000000,Chinar Bagh,Lahore,Low
+500,12800000,Chinar Bagh,Lahore,Low
+500,9000000,Chinar Bagh,Lahore,Low
+500,21500000,DHA Phase 8,Lahore,Low
+500,30000000,DHA Phase 9 Prism,Lahore,Medium
+500,33000000,DHA Phase 7,Lahore,Medium
+500,8000000,Chinar Bagh,Lahore,Low
+500,7600000,Chinar Bagh,Lahore,Low
+500,8199999,Chinar Bagh,Lahore,Low
+500,7800000,Chinar Bagh,Lahore,Low
+500,41500000,DHA Phase 8,Lahore,Medium
+500,36000000,DHA Phase 8,Lahore,Medium
+500,52500000,DHA Phase 8,Lahore,Medium
+500,15200000,DHA Phase 9 Prism,Lahore,Low
+500,31500000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+500,32000000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+500,31000000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+500,30000000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+500,28000000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+500,27000000,Fazaia Housing Scheme Phase 1,Lahore,Low
+500,26000000,Fazaia Housing Scheme Phase 1,Lahore,Low
+500,38500000,DHA Phase 7,Lahore,Medium
+500,36500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,39000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,38500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,22500000,Bahria Town Phase 8,Rawalpindi,Low
+500,47500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,27000000,Gulshan Abad,Rawalpindi,Low
+500,17000000,Bahria Town Phase 8,Rawalpindi,Low
+500,5400000,Capital Smart City,Rawalpindi,Low
+500,24000000,Bahria Town Phase 8,Rawalpindi,Low
+500,8000000,UpCountry Enclosures Housing Society,Rawalpindi,Low
+500,23500000,Bahria Greens - Overseas Enclave,Rawalpindi,Low
+500,26000000,Bahria Town Phase 8,Rawalpindi,Low
+500,42500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,58500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,49000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,45000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,51500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,40000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,44000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,49500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,50000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,47600000,Bahria Town Rawalpindi,Rawalpindi,Medium
+500,20000000,Bahria Town Phase 8,Rawalpindi,Low
+500,5400000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+500,32000000,Bahria Town Phase 8,Rawalpindi,Medium
+500,19000000,Bahria Town Phase 8,Rawalpindi,Low
+500,19500000,Bahria Town Phase 8,Rawalpindi,Low
+500,5500000,Bahria Town Phase 8,Rawalpindi,Low
+500,6000000,Bahria Town Phase 8,Rawalpindi,Low
+250,33000000,Hayatabad Phase 6,Peshawar,Medium
+250,12500000,Regi Model Town,Peshawar,Low
+250,15000000,DHA Defence,Peshawar,Medium
+250,15500000,DHA Defence,Peshawar,Medium
+250,16000000,DHA Defence,Peshawar,Medium
+250,7000000,Shami Road,Peshawar,Low
+250,7000000,Nasir Bagh Road,Peshawar,Low
+250,7000000,Warsak Road,Peshawar,Low
+250,12000000,Regi Model Town,Peshawar,Low
+250,7000000,Ring Road,Peshawar,Low
+250,7000000,Hayatabad,Peshawar,Low
+250,7000000,Arbab Sabz Ali Khan Town,Peshawar,Low
+250,7000000,Walled City,Peshawar,Low
+250,7000000,Zaryab Colony,Peshawar,Low
+250,7000000,Canal Road,Peshawar,Low
+250,33500000,Hayatabad,Peshawar,Medium
+250,9600000,Regi Model Town Phase 1,Peshawar,Low
+250,13100000,Regi Model Town Phase 3,Peshawar,Low
+250,12800000,Regi Model Town Phase 3,Peshawar,Low
+250,13400000,DHA Phase 1,Peshawar,Low
+250,32500000,DHA Defence Phase 2,Islamabad,Medium
+250,19500000,Top City 1,Islamabad,Medium
+250,16000000,Gulberg Residencia,Islamabad,Medium
+250,17000000,Top City 1,Islamabad,Medium
+250,10000000,Gulberg Residencia,Islamabad,Low
+250,8500000,Gulberg Residencia,Islamabad,Low
+250,2450000,University Town,Islamabad,Low
+250,13000000,Top City 1,Islamabad,Low
+250,16000000,Top City 1,Islamabad,Medium
+250,14500000,Bahria Enclave,Islamabad,Medium
+250,14000000,Gulberg Residencia,Islamabad,Low
+250,21000000,Top City 1,Islamabad,Medium
+250,12500000,Top City 1,Islamabad,Low
+250,15500000,Top City 1,Islamabad,Medium
+250,12500000,Bahria Town,Islamabad,Low
+250,7000000,AGHOSH,Islamabad,Low
+250,11000000,Gulberg Residencia,Islamabad,Low
+250,12200000,Park View City,Islamabad,Low
+250,6000000,AGHOSH Phase 2,Islamabad,Low
+250,17000000,DHA Defence,Islamabad,Medium
+250,21500000,DHA Defence Phase 2,Islamabad,Medium
+250,19000000,DHA Defence,Islamabad,Medium
+250,15000000,DHA Defence Phase 3,Islamabad,Medium
+250,8000000,Top City 1,Islamabad,Low
+250,35000000,G-14,Islamabad,Medium
+250,25000000,Bahria Enclave,Islamabad,Medium
+250,9500000,DHA Defence Phase 3,Islamabad,Low
+250,7500000,Kashmir Highway,Islamabad,Low
+250,18200000,DHA Defence Phase 5,Islamabad,Medium
+250,14000000,Bahria Enclave,Islamabad,Low
+250,12000000,Top City 1,Islamabad,Low
+250,12500000,Bahria Enclave,Islamabad,Low
+250,8100000,Top City 1,Islamabad,Low
+250,13500000,Top City 1,Islamabad,Low
+250,17500000,Top City 1,Islamabad,Medium
+250,12400000,DHA Defence,Islamabad,Low
+250,8400000,Park Road Housing Scheme,Islamabad,Low
+250,12200000,MPCHS - Multi Gardens,Islamabad,Low
+250,3800000,PECHS,Islamabad,Low
+250,4500000,PECHS,Islamabad,Low
+250,30000000,DHA Defence Phase 1,Islamabad,Medium
+250,22000000,DHA Defence Phase 5,Islamabad,Medium
+250,5000000,Wapda Town Islamabad,Islamabad,Low
+250,20500000,Bahria Town,Islamabad,Medium
+250,28500000,DHA Defence Phase 5,Islamabad,Medium
+250,19500000,Bahria Enclave,Islamabad,Medium
+250,16600000,DHA Defence,Islamabad,Medium
+250,18000000,Bahria Enclave,Islamabad,Medium
+250,18500000,Gulberg Residencia,Islamabad,Medium
+250,16500000,Top City 1,Islamabad,Medium
+250,15000000,Top City 1,Islamabad,Medium
+250,14800000,Bahria Enclave,Islamabad,Medium
+250,15800000,DHA Defence Phase 5,Islamabad,Medium
+250,13000000,Gulberg Residencia,Islamabad,Low
+250,13500000,D-17,Islamabad,Low
+250,25000000,D-17,Islamabad,Medium
+250,13500000,Gulberg Residencia,Islamabad,Low
+250,30000000,Bahria Enclave,Islamabad,Medium
+250,23000000,DHA Defence Phase 2,Islamabad,Medium
+250,13300000,Top City 1,Islamabad,Low
+250,15000000,Bahria Enclave,Islamabad,Medium
+250,16000000,Bahria Enclave,Islamabad,Medium
+250,17500000,Bahria Enclave,Islamabad,Medium
+250,18500000,DHA Defence Phase 5,Islamabad,Medium
+250,29000000,Bahria Enclave,Islamabad,Medium
+250,29500000,Bahria Enclave,Islamabad,Medium
+250,28500000,Bahria Enclave,Islamabad,Medium
+250,17000000,DHA Defence Phase 3,Islamabad,Medium
+250,8000000,Kashmir Highway,Islamabad,Low
+250,6500000,Kashmir Highway,Islamabad,Low
+250,28000000,DHA Defence Phase 5,Islamabad,Medium
+250,45000000,G-13,Islamabad,High
+250,32500000,G-14,Islamabad,Medium
+250,20000000,DHA Defence Phase 5,Islamabad,Medium
+250,14000000,Top City 1,Islamabad,Low
+250,10400000,Bahria Enclave,Islamabad,Low
+250,6200000,Kashmir Highway,Islamabad,Low
+250,10500000,G-17,Islamabad,Low
+250,29000000,DHA Defence,Islamabad,Medium
+250,18200000,DHA Defence Phase 3,Islamabad,Medium
+250,18500000,Bahria Enclave,Islamabad,Medium
+250,36500000,Bahria Enclave,Islamabad,Medium
+250,31500000,G-14,Islamabad,Medium
+250,22500000,DHA Defence Phase 5,Islamabad,Medium
+250,9000000,Park View City,Islamabad,Low
+250,11000000,Park View City,Islamabad,Low
+250,12000000,Park View City,Islamabad,Low
+250,15000000,Park View City,Islamabad,Medium
+250,16000000,Park View City,Islamabad,Medium
+250,10700000,DHA Phase 8,Lahore,Low
+250,3400000,LDA Road,Lahore,Low
+250,11500000,Park View City,Lahore,Low
+250,16000000,DHA Phase 7,Lahore,Medium
+250,18500000,DHA Phase 7,Lahore,Medium
+250,15000000,AWT Phase 2,Lahore,Medium
+250,11500000,LDA Avenue,Lahore,Low
+250,12500000,Bahria Town - Sector F,Lahore,Low
+250,12000000,Park View City,Lahore,Low
+250,9000000,AWT Phase 2,Lahore,Low
+250,13000000,Park View City,Lahore,Low
+250,11000000,LDA Avenue,Lahore,Low
+250,19800000,DHA Phase 7,Lahore,Medium
+250,10200000,LDA Avenue,Lahore,Low
+250,35000000,Wapda Town Phase 1,Lahore,Medium
+250,6500000,Central Park Housing Scheme,Lahore,Low
+250,21500000,Etihad Town,Lahore,Medium
+250,9500000,AWT Army Welfare Trust,Lahore,Low
+250,10800000,LDA Avenue,Lahore,Low
+250,8000000,Fazaia Housing Scheme,Lahore,Low
+250,9200000,LDA Avenue,Lahore,Low
+250,26500000,DHA Phase 7,Lahore,Medium
+250,17500000,DHA Phase 9 Prism,Lahore,Medium
+250,14800000,DHA Phase 9 Prism,Lahore,Medium
+250,10500000,AWT Army Welfare Trust,Lahore,Low
+250,12000000,Bahria Town - Sector E,Lahore,Low
+250,8500000,Bahria Town - Sector F,Lahore,Low
+250,19500000,DHA Phase 7,Lahore,Medium
+250,10000000,LDA Avenue,Lahore,Low
+250,19000000,Lake City,Lahore,Medium
+250,7600000,Bahria Town - Sector F,Lahore,Low
+250,29000000,EME Society,Lahore,Medium
+250,15500000,State Life Housing Society,Lahore,Medium
+250,18500000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+250,9500000,AWT Phase 2,Lahore,Low
+250,7200000,Central Park Housing Scheme,Lahore,Low
+250,13000000,Lake City,Lahore,Low
+250,7000000,Central Park Housing Scheme,Lahore,Low
+250,25000000,Paragon City,Lahore,Medium
+250,12500000,Khayaban-e-Amin,Lahore,Low
+250,17500000,Park View City,Lahore,Medium
+250,7050000,Central Park Housing Scheme,Lahore,Low
+250,10200000,Al Rehman Garden,Lahore,Low
+250,17800000,DHA Phase 7,Lahore,Medium
+250,10600000,AWT Phase 2,Lahore,Low
+250,7500000,Fazaia Housing Scheme Phase 2,Lahore,Low
+250,12500000,Park View City,Lahore,Low
+250,7800000,Central Park Housing Scheme,Lahore,Low
+250,8500000,Central Park Housing Scheme,Lahore,Low
+250,12200000,AWT Phase 2,Lahore,Low
+250,3600000,LDA City,Lahore,Low
+250,16000000,DHA Phase 8,Lahore,Medium
+250,16500000,Fazaia Housing Scheme,Lahore,Medium
+250,5780000,LDA City Phase 1 - Jinnah Sector,Lahore,Low
+250,16500000,Fazaia Housing Scheme Phase 1,Lahore,Medium
+250,8000000,AWT Phase 2,Lahore,Low
+250,7000000,New Lahore City - Phase 3,Lahore,Low
+250,13000000,Nasheman-e-Iqbal Phase 2,Lahore,Low
+250,11000000,Park View City,Lahore,Low
+250,19000000,DHA Phase 9 Prism,Lahore,Medium
+250,9200000,Central Park Housing Scheme,Lahore,Low
+250,9000000,Fazaia Housing Scheme,Lahore,Low
+250,5800000,State Life Housing Phase 1,Lahore,Low
+250,17400000,Lake City,Lahore,Medium
+250,14500000,Bahria Town - Sector F,Lahore,Medium
+250,18500000,Eden City,Lahore,Medium
+250,7500000,Central Park Housing Scheme,Lahore,Low
+250,8500000,Park View City,Lahore,Low
+250,15500000,Park View City,Lahore,Medium
+250,10000000,IEP Engineers Town - Sector A,Lahore,Low
+250,8000000,Central Park Housing Scheme,Lahore,Low
+250,11500000,Central Park Housing Scheme,Lahore,Low
+250,11000000,Central Park Housing Scheme,Lahore,Low
+250,15500000,DHA Phase 7,Lahore,Medium
+250,14000000,Park View City,Lahore,Low
+250,14500000,Park View City,Lahore,Medium
+250,7400000,Central Park Housing Scheme,Lahore,Low
+250,23000000,Park View City,Lahore,Medium
+250,8800000,Park View City,Lahore,Low
+250,14000000,Paragon City,Lahore,Low
+250,16000000,Lake City,Lahore,Medium
+250,11500000,Paragon City,Lahore,Low
+250,22500000,Paragon City,Lahore,Medium
+250,12000000,Lake City,Lahore,Low
+250,9000000,Kakezai Housing Society,Lahore,Low
+250,11000000,TIP Housing Society,Lahore,Low
+250,11200000,Nespak Scheme Phase 3,Lahore,Low
+250,24000000,Valencia Housing Society,Lahore,Medium
+250,15500000,Paragon City,Lahore,Medium
+250,8199999,Central Park Housing Scheme,Lahore,Low
+250,13000000,Central Park Housing Scheme,Lahore,Low
+250,11500000,Defence Road,Lahore,Low
+250,10000000,Nasheman-e-Iqbal,Lahore,Low
+250,12500000,IEP Engineers Town - Sector A,Lahore,Low
+250,5550000,Grand Avenues Housing Scheme,Lahore,Low
+250,27500000,DHA Phase 7,Lahore,Medium
+250,17500000,DHA 11 Rahbar Phase 4,Lahore,Medium
+250,10000000,Park View City,Lahore,Low
+250,12500000,DHA Phase 7,Lahore,Low
+250,9500000,DHA 11 Rahbar Phase 4,Lahore,Low
+250,12700000,DHA 11 Rahbar Phase 4,Lahore,Low
+250,15000000,Park View City,Lahore,Medium
+250,11300000,LDA Avenue,Lahore,Low
+250,12500000,DHA Phase 9 Prism,Lahore,Low
+250,3960000,GT Road,Lahore,Low
+250,9000000,Park View City,Lahore,Low
+250,17000000,Bahria Town - Sector F,Lahore,Medium
+250,16500000,Bahria Town - Sector E,Lahore,Medium
+250,18500000,Bahria Town - Sector E,Lahore,Medium
+250,18000000,Eden,Lahore,Medium
+250,12000000,Khayaban-e-Amin,Lahore,Low
+250,18200000,DHA Phase 7,Lahore,Medium
+250,23000000,Wapda Town Phase 1,Lahore,Medium
+250,23000000,DHA 11 Rahbar Phase 1,Lahore,Medium
+250,20000000,DHA Phase 7,Lahore,Medium
+250,13500000,Paragon City,Lahore,Low
+250,7500000,Bahria Town Phase 8,Rawalpindi,Low
+250,24000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,14800000,Bahria Town Phase 8,Rawalpindi,Medium
+250,8500000,Bahria Town Phase 8,Rawalpindi,Low
+250,26000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,8199999,Bahria Town Phase 8,Rawalpindi,Low
+250,10500000,Bahria Town Phase 8,Rawalpindi,Low
+250,9000000,Bahria Town Phase 8,Rawalpindi,Low
+250,5800000,Bahria Town Phase 8,Rawalpindi,Low
+250,10000000,Bahria Town Phase 8,Rawalpindi,Low
+250,12500000,Bahria Town Phase 8,Rawalpindi,Low
+250,2600000,Bahria Town Phase 8,Rawalpindi,Low
+250,28500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,9500000,Gulshan Abad,Rawalpindi,Low
+250,18500000,Bahria Town Phase 8,Rawalpindi,Medium
+250,20000000,Bahria Town Phase 8,Rawalpindi,Medium
+250,4400000,Bahria Town Phase 8,Rawalpindi,Low
+250,11000000,Bahria Town Phase 8,Rawalpindi,Low
+250,13500000,Bahria Town Phase 8,Rawalpindi,Low
+250,16000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,11500000,Bahria Town Phase 8,Rawalpindi,Low
+250,12500000,Gulshan Abad,Rawalpindi,Low
+250,15000000,Bahria Town Phase 8,Rawalpindi,Medium
+250,9500000,Bahria Town Phase 8,Rawalpindi,Low
+250,7200000,Bahria Town Phase 8,Rawalpindi,Low
+250,3350000,Capital Smart City,Rawalpindi,Low
+250,23000000,Bahria Greens - Overseas Enclave,Rawalpindi,Medium
+250,10700000,Bahria Town Phase 8,Rawalpindi,Low
+250,24900000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,19000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,5000000,Bahria Town Phase 8,Rawalpindi,Low
+250,27500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,31000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,17500000,Bahria Town Phase 8,Rawalpindi,Medium
+250,3800000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+250,27000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,13000000,Bahria Town Phase 8,Rawalpindi,Low
+250,14000000,Bahria Town Phase 8,Rawalpindi,Low
+250,14500000,Bahria Town Phase 8,Rawalpindi,Medium
+250,25000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,2550000,Bahria Town Phase 8,Rawalpindi,Low
+250,11000000,Bahria Town Rawalpindi,Rawalpindi,Low
+250,3800000,Chakri Road,Rawalpindi,Low
+250,12000000,Bahria Town Phase 8,Rawalpindi,Low
+250,14000000,Bahria Town Rawalpindi,Rawalpindi,Low
+250,14200000,Bahria Town Rawalpindi,Rawalpindi,Low
+250,3300000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+250,2600000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+250,2900000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+250,17000000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,11500000,Bahria Town Rawalpindi,Rawalpindi,Low
+250,7600000,Bahria Town Phase 8,Rawalpindi,Low
+250,17500000,Bahria Town Rawalpindi,Rawalpindi,Medium
+250,15500000,Bahria Greens - Overseas Enclave,Rawalpindi,Medium
+250,4500000,Bahria Town Phase 8 Extension,Rawalpindi,Low
+250,8000000,Bahria Town Phase 8,Rawalpindi,Low
+250,4500000,Bahria Town Phase 8,Rawalpindi,Low
+175,26000000,Hayatabad Phase 6,Peshawar,Medium
+175,13500000,Gulberg Residencia,Islamabad,Medium
+175,6800000,Gulberg Residencia,Islamabad,Low
+175,15500000,Gulberg Residencia,Islamabad,Medium
+175,5000000,Gulberg Residencia,Islamabad,Low
+175,10500000,Gulberg Residencia,Islamabad,Medium
+175,3500000,G-15,Islamabad,Low
+175,12800000,Gulberg Residencia,Islamabad,Medium
+175,13000000,Gulberg Residencia,Islamabad,Medium
+175,15000000,Gulberg Residencia,Islamabad,Medium
+175,7000000,Gulberg Residencia,Islamabad,Low
+175,8500000,Gulberg Residencia,Islamabad,Low
+175,5500000,Kashmir Highway,Islamabad,Low
+175,6500000,Kashmir Highway,Islamabad,Low
+175,27500000,G-14,Islamabad,Medium
+175,3800000,PECHS,Islamabad,Low
+175,11000000,Gulberg Residencia,Islamabad,Medium
+175,6200000,Kashmir Highway,Islamabad,Low
+175,31000000,G-14,Islamabad,High
+175,8800000,D-17,Islamabad,Low
+175,8600000,D-17,Islamabad,Low
+175,9000000,Gulberg,Islamabad,Low
+175,8000000,Gulberg Residencia,Islamabad,Low
+175,5000000,Kashmir Highway,Islamabad,Low
+175,8199999,Gulberg Residencia,Islamabad,Low
+175,17700000,I-12,Islamabad,Medium
+175,7000000,Kashmir Highway,Islamabad,Low
+175,9500000,Gulberg Residencia,Islamabad,Low
+175,7500000,Gulberg Residencia,Islamabad,Low
+175,9900000,Gulberg Residencia,Islamabad,Low
+175,7000000,New Lahore City - Phase 2,Lahore,Low
+175,14500000,Lake City,Lahore,Medium
+175,11200000,Lake City - Sector M-7,Lahore,Medium
+175,6000000,Low Cost Sector,Lahore,Low
+175,6500000,New Lahore City - Phase 2,Lahore,Low
+175,9800000,Lake City,Lahore,Low
+175,10500000,DHA Phase 8,Lahore,Medium
+175,2980000,GT Road,Lahore,Low
+175,7000000,Fazaia Housing Scheme,Lahore,Low
+175,6500000,Fazaia Housing Scheme,Lahore,Low
+175,10700000,Bahria Town Phase 8,Rawalpindi,Medium
+175,9200000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Low
+175,8600000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Low
+175,9500000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Low
+175,9000000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Low
+175,8500000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Low
+175,3900000,Bahria Town Phase 8,Rawalpindi,Low
+175,10200000,Bahria Town Phase 8 - Safari Valley,Rawalpindi,Medium
+200,20000000,Shami Road,Peshawar,Medium
+200,9600000,DHA Phase 1,Peshawar,Low
+200,9000000,I-16,Islamabad,Low
+200,14500000,DHA Defence Phase 5,Islamabad,Medium
+200,3300000,E-16/1,Islamabad,Low
+200,8500000,MPCHS - Multi Gardens,Islamabad,Low
+200,18500000,CBR Town Phase 1,Islamabad,Medium
+200,3500000,E-16/1,Islamabad,Low
+200,16500000,G-14,Islamabad,Medium
+200,14800000,G-14,Islamabad,Medium
+200,3200000,DHA Valley,Islamabad,Low
+200,1750000,DHA Valley,Islamabad,Low
+200,4500000,DHA Valley,Islamabad,Low
+200,11000000,I-16,Islamabad,Medium
+200,11500000,MPCHS - Multi Gardens,Islamabad,Medium
+200,3200000,PECHS,Islamabad,Low
+200,3400000,PECHS,Islamabad,Low
+200,15000000,G-14,Islamabad,Medium
+200,3500000,PECHS,Islamabad,Low
+200,17500000,G-15,Islamabad,Medium
+200,10000000,I-16,Islamabad,Low
+200,3500000,DHA Valley,Islamabad,Low
+200,19900000,G-16,Islamabad,Medium
+200,4000000,PECHS,Islamabad,Low
+200,11000000,G-16,Islamabad,Medium
+200,10000000,G-16,Islamabad,Low
+200,10800000,Bahria Enclave,Islamabad,Medium
+200,11500000,Bahria Enclave,Islamabad,Medium
+200,16000000,G-14,Islamabad,Medium
+200,9800000,Bahria Town,Islamabad,Low
+200,18000000,G-14,Islamabad,Medium
+200,27500000,G-14,Islamabad,High
+200,13000000,Faisal Town Phase 1,Islamabad,Medium
+200,14000000,Gulberg Residencia,Islamabad,Medium
+200,7700000,Bahria Enclave,Islamabad,Low
+200,15000000,DHA Phase 8,Lahore,Medium
+200,4500000,Low Cost Sector,Lahore,Low
+200,17700000,Bahria Town - Sector B,Lahore,Medium
+200,11500000,DHA 11 Rahbar Phase 1,Lahore,Medium
+200,16000000,DHA Phase 8,Lahore,Medium
+200,11000000,Audit & Accounts Housing Society,Lahore,Medium
+200,4500000,Overseas Low Cost,Lahore,Low
+200,13000000,DHA Phase 8,Lahore,Medium
+200,7800000,Audit & Accounts Housing Society,Lahore,Low
+200,7500000,Audit & Accounts Housing Society,Lahore,Low
+200,13000000,DHA Defence,Lahore,Medium
+200,5300000,Bahria Orchard,Lahore,Low
+200,4500000,Bahria Town Phase 8,Rawalpindi,Low
+200,7300000,Bahria Town Phase 8,Rawalpindi,Low
+200,9500000,Bahria Town Phase 8,Rawalpindi,Low
+350,31000000,G-14,Islamabad,Medium
+350,10000000,AGHOSH Phase 2,Islamabad,Low
+350,21000000,Gulberg Residencia,Islamabad,Low
+350,42000000,G-14,Islamabad,Medium
+350,9000000,AGHOSH,Islamabad,Low
+350,8000000,AGHOSH Phase 2,Islamabad,Low
+350,45000000,E-12,Islamabad,Medium
+350,21000000,CBR Town Phase 1,Islamabad,Low
+350,28500000,Bahria Enclave,Islamabad,Medium
+350,18000000,MPCHS - Multi Gardens,Islamabad,Low
+350,22500000,G-14,Islamabad,Low
+350,8900000,AGHOSH,Islamabad,Low
+350,48000000,G-14,Islamabad,High
+350,26000000,Lake City,Lahore,Medium
+350,17000000,Bahria Town - Sector E,Lahore,Low
+350,15500000,Bahria Town Phase 8,Rawalpindi,Low
+350,43000000,G-14,Islamabad,Medium
+350,35000000,E-12,Islamabad,Low
+350,52500000,E-12,Islamabad,High
+350,23000000,G-14,Islamabad,Low
+350,45000000,E-12,Islamabad,Medium
+350,52000000,G-14,Islamabad,Medium
+350,39000000,G-14,Islamabad,Low
+350,45000000,G-14,Islamabad,Medium
+270,10500000,D-17,Islamabad,Low
+270,29500000,E-12,Islamabad,Medium
+270,32500000,G-14,Islamabad,Medium
+270,30000000,E-12,Islamabad,Medium
+270,37500000,E-12,Islamabad,Medium
+270,45000000,E-12,Islamabad,High
+270,4000000,PECHS,Islamabad,Low
+270,33000000,E-12,Islamabad,Medium
+270,3300000,PECHS,Islamabad,Low
+270,33000000,G-14,Islamabad,Medium
+270,160000,Gulberg Residencia,Islamabad,Low
+270,11500000,D-17,Islamabad,Low
+270,14500000,Bahria Town Rawalpindi,Rawalpindi,Low
+310,91000000,I-8,Islamabad,Medium
+310,98500000,I-8,Islamabad,High
+310,50000000,E-12,Islamabad,Low
+310,17000000,Top City 1,Islamabad,Low
+310,8000000,F-15,Islamabad,Low
+310,16500000,Bahria Garden City,Islamabad,Low
+310,53000000,G-14,Islamabad,High
+310,9200000,PECHS,Islamabad,Low
+310,27500000,DHA Defence Phase 1,Islamabad,Medium
+310,24500000,Etihad Town,Lahore,Medium
+310,14000000,Bahria Town - Sector F,Lahore,Low
+310,19000000,Lake City,Lahore,Low
+310,15500000,Bahria Town Phase 8,Rawalpindi,Low
+310,3400000,PECHS,Islamabad,Low
+310,3500000,PECHS,Islamabad,Low
+310,3300000,PECHS,Islamabad,Low
+310,4000000,PECHS,Islamabad,High
+270,15000000,Bahria Enclave,Islamabad,High
+310,4500000,PECHS,Islamabad,Low
+310,20000000,Bahria Greens - Overseas Enclave,Rawalpindi,Medium
+310,21500000,Bahria Greens - Overseas Enclave,Rawalpindi,High
+310,16500000,Bahria Town Phase 8,Rawalpindi,Medium
+310,11500000,Bahria Town Phase 8,Rawalpindi,Low
+270,11500000,Bahria Town - Sector F,Lahore,High
+120,5500000,Saadi Garden,Karachi,Low
+120,6650000,Pir Ahmed Zaman Town,Karachi,Low
+120,4900000,Surjani Town,Karachi,Low
+120,8199999,Scheme 33 - Sector 32,Karachi,Medium
+120,5800000,Scheme 33,Karachi,Low
+120,2600000,Hub River Road,Karachi,Low
+120,2200000,Gadap Town,Karachi,Low
+120,4500000,Scheme 33 - Sector 26-A,Karachi,Low
+120,5800000,Surjani Town,Karachi,Low
+120,17500000,Naya Nazimabad,Karachi,Medium
+120,380000,Taiser Town,Karachi,Low
+120,8000000,Korangi,Karachi,Medium
+120,3400000,DHA City - Sector 14,Karachi,Low
+120,6600000,Saadi Garden,Karachi,Low
+120,5500000,Surjani Town,Karachi,Low
+120,6500000,Gadap Town,Karachi,Low
+120,4600000,Gadap Town,Karachi,Low
+120,2000000,Muhammad Bin Qasim Co-operative Housing Society,Karachi,Low
+120,8300000,Scheme 33 - Sector 32,Karachi,Medium
+120,4700000,Surjani Town,Karachi,Low
+120,5700000,Surjani Town,Karachi,Low
+120,12500000,Scheme 33 - Sector 31,Karachi,Medium
+120,8500000,Scheme 33 - Sector 20-A,Karachi,Medium
+120,8400000,Scheme 33 - Sector 31,Karachi,Medium
+120,11000000,Scheme 33 - Sector 32,Karachi,Medium
+120,9350000,Scheme 33 - Sector 32,Karachi,Medium
+120,8600000,Scheme 33 - Sector 31,Karachi,Medium
+120,13500000,Scheme 33 - Sector 32,Karachi,Medium
+120,1950000,Gadap Town,Karachi,Low
+120,1650000,Gadap Town,Karachi,Low
+120,1700000,Gadap Town,Karachi,Low
+120,9400000,Scheme 33 - Sector 31,Karachi,Medium
+120,26300000,DHA Defence,Karachi,High
+120,9350000,Scheme 33 - Sector 31,Karachi,Medium
+120,12600000,Scheme 33 - Sector 18-A,Karachi,Medium
+120,5500000,Scheme 33,Karachi,Low
+120,9800000,Scheme 33,Karachi,Medium
+120,5400000,Scheme 33,Karachi,Low
+120,6200000,Saadi Garden,Karachi,Low
+120,5300000,Saadi Garden,Karachi,Low
+120,6800000,Scheme 33,Karachi,Low
+120,7800000,Scheme 33,Karachi,Medium
+120,5200000,Saadi Garden,Karachi,Low
+120,5600000,Scheme 33,Karachi,Low
+120,2600000,Surjani Town,Karachi,Low
+120,4000000,Surjani Town,Karachi,Low
+120,5000000,Surjani Town,Karachi,Low
+120,6200000,Surjani Town,Karachi,Low
+120,2000000,Gadap Town,Karachi,Low
+120,1200000,Safari Palm Village,Karachi,Low
+120,600000,Gadap Town,Karachi,Low
+120,12000000,Scheme 33 - Sector 31,Karachi,Medium
+120,9500000,Scheme 33 - Sector 32,Karachi,Medium
+120,6000000,Saadi Garden,Karachi,Low
+120,7000000,Faisal Cantonment,Karachi,Low
+120,1750000,Scheme 45,Karachi,Low
+120,1850000,Scheme 45,Karachi,Low
+120,3500000,Scheme 33,Karachi,Low
+120,15500000,Naya Nazimabad,Karachi,Medium
+120,9000000,Naya Nazimabad,Karachi,Medium
+120,7200000,Saadi Garden,Karachi,Low
+120,3000000,Scheme 33,Karachi,Low
+120,4500000,Scheme 33,Karachi,Low
+120,1400000,Northern Bypass,Karachi,Low
+120,17300000,Naya Nazimabad,Karachi,Medium
+120,4800000,Surjani Town,Karachi,Low
+120,1800000,Scheme 45,Karachi,Low
+120,3400000,Scheme 33,Karachi,Low
+120,6400000,Faisal Cantonment,Karachi,Low
+120,7000000,Pir Ahmed Zaman Town,Karachi,Low
+120,290000,Taiser Town,Karachi,Low
+120,7600000,Scheme 33,Karachi,Low
+120,6500000,Pir Ahmed Zaman Town,Karachi,Low
+120,6500000,Saadi Garden,Karachi,Low
+120,6300000,Scheme 33,Karachi,Low
+120,5700000,Scheme 33,Karachi,Low
+120,7000000,Saadi Garden,Karachi,Low
+120,6800000,Saadi Garden,Karachi,Low
+120,5700000,Saadi Garden,Karachi,Low
+120,5900000,Saadi Garden,Karachi,Low
+120,7500000,Faisal Cantonment,Karachi,Low
+120,6200000,Faisal Cantonment,Karachi,Low
+120,5400000,Saadi Garden,Karachi,Low
+120,11500000,Scheme 33,Karachi,Medium
+120,16000000,Scheme 33,Karachi,Medium
+120,8400000,Scheme 33 - Sector 32,Karachi,Medium
+120,8500000,Scheme 33 - Sector 31,Karachi,Medium
+120,16000000,Scheme 33 - Sector 18-A,Karachi,Medium
+120,11200000,Scheme 33,Karachi,Medium
+120,11000000,Scheme 33 - Sector 50,Karachi,Medium
+120,4800000,Scheme 33 - Sector 54-A,Karachi,Low
+120,4700000,Scheme 33 - Sector 54-A,Karachi,Low
+120,11000000,Gulshan-e-Iqbal Town,Karachi,Medium
+120,9700000,Scheme 33 - Sector 31,Karachi,Medium
+120,5000000,Surjani Town - Sector 6,Karachi,Low
+120,1200000,Surjani Town - Sector 11,Karachi,Low
+120,11500000,Scheme 33 - Sector 18-A,Karachi,Medium
+120,6000000,Pir Ahmed Zaman Town,Karachi,Low
+120,2300000,Scheme 33,Karachi,Low
+120,5200000,Surjani Town - Sector 6,Karachi,Low
+120,10000000,Saadi Town,Karachi,Medium
+120,8500000,Saadi Garden,Karachi,Medium
+120,16500000,Scheme 33 - Sector 18-A,Karachi,Medium
+120,15000000,Scheme 33,Karachi,Medium
+120,10000000,Gulshan-e-Iqbal Town,Karachi,Medium
+120,21500000,Scheme 33 - Sector 15-A,Karachi,Medium
+120,10300000,Gulshan-e-Iqbal Town,Karachi,Medium
+120,9800000,Scheme 33 - Sector 50,Karachi,Medium
+120,8199999,Scheme 33 - Sector 31,Karachi,Medium
+120,4000000,Scheme 33 - Sector 54-A,Karachi,Low
+120,9500000,Scheme 33 - Sector 31,Karachi,Medium
+120,4400000,Scheme 33 - Sector 54-A,Karachi,Low
+120,15500000,Scheme 33 - Sector 25-A,Karachi,Medium
+120,18500000,Scheme 33,Karachi,Medium
+120,19200000,Scheme 33,Karachi,Medium
+120,17200000,Scheme 33,Karachi,Medium
+120,5750000,Murad Memon Goth,Karachi,Low
+120,6000000,Murad Memon Goth,Karachi,Low
+120,6000000,Gadap Town,Karachi,Low
+120,7700000,Gadap Town,Karachi,Low
+120,8000000,Naya Nazimabad,Karachi,Medium
+120,13000000,Naya Nazimabad,Karachi,Medium
+120,16000000,Naya Nazimabad,Karachi,Medium
+120,14000000,Naya Nazimabad,Karachi,Medium
+120,16500000,Naya Nazimabad,Karachi,Medium
+120,15000000,Naya Nazimabad,Karachi,Medium
+120,19500000,Naya Nazimabad,Karachi,Medium
+120,19000000,Naya Nazimabad,Karachi,Medium
+120,17000000,Naya Nazimabad,Karachi,Medium
+120,10200000,Scheme 33 - Sector 50,Karachi,Medium
+120,8300000,Scheme 33 - Sector 31,Karachi,Medium
+120,9900000,Scheme 33 - Sector 50,Karachi,Medium
+120,17000000,Scheme 33 - Sector 25-A,Karachi,Medium
+120,23000000,Scheme 33 - Sector 15-A,Karachi,Medium
+120,9300000,Scheme 33 - Sector 31,Karachi,Medium
+120,11000000,Scheme 33 - Sector 31,Karachi,Medium
+120,11500000,Scheme 33 - Sector 31,Karachi,Medium
+120,8000000,Scheme 33 - Sector 32,Karachi,Medium
+120,9300000,Scheme 33 - Sector 32,Karachi,Medium
+120,3500000,Gadap Town,Karachi,Low
+120,8000000,Scheme 33 - Sector 31,Karachi,Medium
+120,4000000,Gadap Town,Karachi,Low
+120,3300000,Scheme 33,Karachi,Low
+120,2450000,Scheme 33,Karachi,Low
+120,2600000,Scheme 33,Karachi,Low
+120,4099999,Gadap Town,Karachi,Low
+120,5400000,Gadap Town,Karachi,Low
+120,3400000,Gadap Town,Karachi,Low
+120,2700000,Scheme 33,Karachi,Low
+120,5900000,Gadap Town,Karachi,Low
+120,3450000,Gadap Town,Karachi,Low
+120,9900000,Scheme 33 - Sector 19-A,Karachi,Medium
+120,9000000,Scheme 33 - Sector 31,Karachi,Medium
+120,10500000,University Road,Karachi,Medium
+120,8000000,Faisal Cantonment,Karachi,Medium
+120,7900000,Saadi Garden,Karachi,Medium
+120,18800000,Naya Nazimabad,Karachi,Medium
+120,13500000,Naya Nazimabad,Karachi,Medium
+120,8500000,Naya Nazimabad,Karachi,Medium
+120,5650000,Saadi Garden,Karachi,Low
+120,6400000,Gadap Town,Karachi,Low
+120,8000000,Scheme 33,Karachi,Medium
+120,8800000,Scheme 33,Karachi,Medium
+120,8500000,Scheme 33,Karachi,Medium
+120,2750000,Garden City,Karachi,Low
+120,2600000,Garden City,Karachi,Low
+120,2400000,Garden City,Karachi,Low
+120,6800000,Garden City,Karachi,Low
+120,2100000,Garden City,Karachi,Low
+120,10800000,Scheme 33,Karachi,Medium
+120,7800000,Gadap Town,Karachi,Medium
+120,8300000,Naya Nazimabad,Karachi,Medium
+120,8600000,Naya Nazimabad,Karachi,Medium
+120,16200000,Naya Nazimabad,Karachi,Medium
+120,15800000,Naya Nazimabad,Karachi,Medium
+120,9000000,Pir Ahmed Zaman Town,Karachi,Medium
+120,5000000,Pir Ahmed Zaman Town,Karachi,Low
+120,3450000,Pir Ahmed Zaman Town,Karachi,Low
+120,5000000,Malir,Karachi,Low
+120,4200000,Malir,Karachi,Low
+120,8500000,Scheme 33 - Sector 32,Karachi,Medium
+120,5750000,Saadi Garden,Karachi,Low
+120,15500000,Scheme 33,Karachi,Medium
+120,7200000,Scheme 33 - Sector 51-A,Karachi,Low
+120,8700000,Saadi Town,Karachi,Medium
+120,7850000,Saadi Garden,Karachi,Medium
+120,4800000,Saadi Garden,Karachi,Low
+120,11000000,Saadi Garden,Karachi,Medium
+120,8700000,Saadi Garden,Karachi,Medium
+120,9000000,Saadi Garden,Karachi,Medium
+120,700000,Memon Goth,Karachi,Low
+120,1350000,Memon Goth,Karachi,Low
+120,1000000,Memon Goth,Karachi,Low
+120,1100000,Memon Goth,Karachi,Low
+120,12500000,Scheme 33 - Sector 18-A,Karachi,Medium
+120,5500000,Scheme 33 - Sector 54-A,Karachi,Low
+120,2500000,Taiser Town,Karachi,Low
+120,4200000,Scheme 33 - Sector 54-A,Karachi,Low
+120,9000000,Scheme 33 - Sector 51-A,Karachi,Medium
+120,9500000,Scheme 33 - Sector 51-A,Karachi,Medium
+120,9000000,Gadap Town,Karachi,Medium
+120,9600000,Scheme 33,Karachi,Medium
+120,7000000,Scheme 33,Karachi,Low
+120,7200000,Scheme 33,Karachi,Low
+120,6800000,Gulshan-e-Usman Phase 1,Karachi,Low
+120,3500000,Pir Ahmed Zaman Town,Karachi,Low
+120,5700000,Pir Ahmed Zaman Town,Karachi,Low
+120,5500000,Pir Ahmed Zaman Town,Karachi,Low
+120,6700000,Pir Ahmed Zaman Town,Karachi,Low
+120,5300000,Scheme 33,Karachi,Low
+120,5500000,Saadi Town,Karachi,Low
+120,2700000,Hub River Road,Karachi,Low
+120,6000000,Surjani Town,Karachi,Low
+120,6500000,Scheme 33,Karachi,Low
+120,14500000,Scheme 33,Karachi,Medium
+120,10400000,Scheme 33 - Sector 31,Karachi,Medium
+120,12000000,Scheme 33,Karachi,Medium
+120,9300000,Malir,Karachi,Medium
+120,8500000,Hawks Bay Scheme 42,Karachi,Medium
+120,280000,Hawks Bay Scheme 42,Karachi,Low
+120,680000,Hawks Bay Scheme 42,Karachi,Low
+120,200000,Hawks Bay Scheme 42,Karachi,Low
+120,850000,Hawks Bay Scheme 42,Karachi,Low
+120,700000,Hawks Bay Scheme 42,Karachi,Low
+120,800000,Hawks Bay Scheme 42,Karachi,Low
+120,6000000,Scheme 33,Karachi,Low
+120,11500000,Gulshan-e-Iqbal Town,Karachi,Medium
+120,15500000,Scheme 33 - Sector 17-A,Karachi,Medium
+120,800000,Memon Goth,Karachi,Low
+120,18500000,Korangi,Karachi,Medium
+120,8199999,Gulshan-e-Maymar,Karachi,Medium
+120,15000000,Scheme 33 - Sector 25-A,Karachi,Medium
+120,5000000,Gadap Town,Karachi,Low
+120,4800000,Scheme 33,Karachi,Low
+120,10000000,University Road,Karachi,Medium
+120,8800000,Naya Nazimabad,Karachi,Medium
+120,15200000,Naya Nazimabad,Karachi,Medium
+120,13300000,Naya Nazimabad,Karachi,Medium
+120,14700000,Naya Nazimabad,Karachi,Medium
+120,13800000,Naya Nazimabad,Karachi,Medium
+120,7200000,Naya Nazimabad,Karachi,Low
+120,24000000,Malir Link To Super Highway,Karachi,Medium
+120,13000000,Saadi Town,Karachi,Medium
+120,2200000,Gulshan-e-Hadeed,Karachi,Low
+120,1800000,Gulshan-e-Hadeed,Karachi,Low
+120,2500000,National Highway,Karachi,Low
+120,4600000,Alize Garden,Karachi,Low
+120,5900000,Pir Ahmed Zaman Town,Karachi,Low
+120,11000000,Scheme 33,Karachi,Medium
+120,13500000,Scheme 33,Karachi,Medium
+120,3750000,Scheme 45,Karachi,Low
+120,4000000,Scheme 45,Karachi,Low
+120,4200000,Scheme 45,Karachi,Low
+120,5750000,Scheme 33 - Sector 26-A,Karachi,Low
+120,4450000,Scheme 33 - Sector 26-A,Karachi,Low
+120,8600000,Scheme 33 - Sector 20-A,Karachi,Medium
+120,9800000,Scheme 33 - Sector 31,Karachi,Medium
+120,9600000,Scheme 33 - Sector 31,Karachi,Medium
+120,8800000,Scheme 33 - Sector 32,Karachi,Medium
+120,14600000,Naya Nazimabad,Karachi,Medium
+120,4000000,Scheme 33 - Sector 36-A,Karachi,Low
+120,9000000,Scheme 33 - Sector 20-A,Karachi,Medium
+120,8350000,Scheme 33 - Sector 20-A,Karachi,Medium
+120,5500000,Scheme 33 - Sector 26-A,Karachi,Low
+120,8400000,Scheme 33 - Sector 20-A,Karachi,Medium
+120,5000000,Saadi Garden,Karachi,Low
+120,4000000,Scheme 33,Karachi,Low
+120,7100000,Saadi Garden,Karachi,Low
+120,2580000,Gadap Town,Karachi,Low
+120,2590000,Gadap Town,Karachi,Low
+120,3800000,Malir,Karachi,Low
+80,3150000,Scheme 45,Karachi,Medium
+80,2650000,Surjani Town,Karachi,Medium
+80,9000000,Malir,Karachi,High
+80,1200000,Karachi Motorway,Karachi,Low
+80,4300000,Surjani Town,Karachi,Medium
+80,430000,Gadap Town,Karachi,Low
+80,400000,Gadap Town,Karachi,Low
+80,550000,Taiser Town,Karachi,Low
+80,1400000,Karachi - Hyderabad Motorway,Karachi,Low
+80,3600000,Surjani Town,Karachi,Medium
+80,4500000,Surjani Town,Karachi,Medium
+80,4200000,Surjani Town,Karachi,Medium
+80,6300000,Garden City,Karachi,Medium
+80,1600000,Garden City,Karachi,Low
+80,6000000,Garden City,Karachi,Medium
+80,1700000,Garden City,Karachi,Low
+80,250000,Taiser Town,Karachi,Low
+80,3000000,Malir,Karachi,Medium
+80,2080000,Gadap Town,Karachi,Low
+80,900000,Gadap Town,Karachi,Low
+80,5500000,Gulshan-e-Maymar,Karachi,Medium
+80,2089999,Gadap Town,Karachi,Low
+80,850000,Gadap Town,Karachi,Low
+80,2300000,Hub River Road,Karachi,Medium
+80,450000,Hawks Bay Scheme 42,Karachi,Low
+80,380000,Hawks Bay Scheme 42,Karachi,Low
+80,250000,Hawks Bay Scheme 42,Karachi,Low
+80,600000,Hawks Bay Scheme 42,Karachi,Low
+80,3500000,Surjani Town,Karachi,Medium
+80,500000,Taiser Town,Karachi,Low
+80,990000,Gadap Town,Karachi,Low
+80,1000000,Gadap Town,Karachi,Low
+80,2080000,Gadap Town,Karachi,Low
+80,1750000,Bin Qasim Town,Karachi,Low
+80,340000,Taiser Town,Karachi,Low
+80,2450000,Surjani Town,Karachi,Medium
+80,3200000,Surjani Town,Karachi,Medium
+80,3800000,Surjani Town,Karachi,Medium
+80,800000,Orangi Town,Karachi,Low
+80,2049999,Gadap Town,Karachi,Low
+80,860000,Gadap Town,Karachi,Low
+80,2049999,Gadap Town,Karachi,Low
+80,580000,Taiser Town,Karachi,Low
+80,2060000,Gadap Town,Karachi,Low
+80,890000,Gadap Town,Karachi,Low
+80,2080000,Gadap Town,Karachi,Low
+80,1000000,Gadap Town,Karachi,Low
+80,7500000,Malir,Karachi,Medium
+80,990000,Gadap Town,Karachi,Low
+80,750000,Taiser Town,Karachi,Low
+240,11800000,Saadi Garden,Karachi,Low
+240,7500000,Scheme 33 - Sector 26-A,Karachi,Low
+240,16500000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,8000000,Garden City,Karachi,Low
+240,26000000,Naya Nazimabad,Karachi,Medium
+240,9500000,Gulshan-e-Mehran,Karachi,Low
+240,16000000,Scheme 33 - Sector 25-A,Karachi,Low
+240,17800000,North Karachi,Karachi,Medium
+240,24500000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,13500000,Scheme 33 - Sector 27-A,Karachi,Low
+240,10800000,Scheme 33,Karachi,Low
+240,12000000,Saadi Garden,Karachi,Low
+240,11500000,Saadi Garden,Karachi,Low
+240,11000000,Scheme 33,Karachi,Low
+240,11500000,Scheme 33,Karachi,Low
+240,24500000,Scheme 33 - Sector 35-A,Karachi,Medium
+240,18500000,Gulistan-e-Jauhar,Karachi,Medium
+240,23500000,Scheme 33 - Sector 35-A,Karachi,Medium
+240,52500000,Gulshan-e-Iqbal,Karachi,High
+240,10500000,Scheme 33,Karachi,Low
+240,30500000,Scheme 33,Karachi,Medium
+240,16000000,Faisal Cantonment,Karachi,Low
+240,17700000,Scheme 33,Karachi,Medium
+240,8400000,Pir Ahmed Zaman Town,Karachi,Low
+240,19000000,Scheme 33,Karachi,Medium
+240,17000000,Scheme 33 - Sector 21-A,Karachi,Medium
+240,31000000,Scheme 33 - Sector 17-A,Karachi,Medium
+240,17500000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,14500000,Scheme 33,Karachi,Low
+240,7700000,Gulshan-e-Mehran,Karachi,Low
+240,11500000,Surjani Town,Karachi,Low
+240,11200000,Surjani Town,Karachi,Low
+240,12800000,Saadi Garden,Karachi,Low
+240,21000000,Scheme 33 - Sector 18-A,Karachi,Medium
+240,25000000,Scheme 33 - Sector 15-A,Karachi,Medium
+240,26000000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,27500000,Scheme 33,Karachi,Medium
+240,16500000,Gulshan-e-Iqbal Town,Karachi,Medium
+240,20000000,Gulshan-e-Iqbal Town,Karachi,Medium
+240,6000000,Scheme 33 - Sector 20-A,Karachi,Low
+240,6000000,Scheme 33 - Sector 54-A,Karachi,Low
+240,16500000,Scheme 33 - Sector 19-A,Karachi,Medium
+240,26300000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,25500000,Scheme 33,Karachi,Medium
+240,28200000,Scheme 33,Karachi,Medium
+240,17000000,Gulshan-e-Iqbal Town,Karachi,Medium
+240,32000000,Scheme 33 - Sector 15-A,Karachi,Medium
+240,24000000,Naya Nazimabad,Karachi,Medium
+240,19000000,Naya Nazimabad,Karachi,Medium
+240,27000000,Naya Nazimabad,Karachi,Medium
+240,25000000,Naya Nazimabad,Karachi,Medium
+240,22000000,Naya Nazimabad,Karachi,Medium
+240,21000000,Naya Nazimabad,Karachi,Medium
+240,20000000,Naya Nazimabad,Karachi,Medium
+240,32000000,Naya Nazimabad,Karachi,Medium
+240,31000000,Naya Nazimabad,Karachi,Medium
+240,30000000,Naya Nazimabad,Karachi,Medium
+240,29000000,Naya Nazimabad,Karachi,Medium
+240,28000000,Naya Nazimabad,Karachi,Medium
+240,18500000,Scheme 33 - Sector 19-A,Karachi,Medium
+240,19500000,Scheme 33,Karachi,Medium
+240,14500000,Scheme 33 - Sector 25-A,Karachi,Low
+240,17500000,Scheme 33 - Sector 19-A,Karachi,Medium
+240,14500000,Scheme 33 - Sector 19-A,Karachi,Low
+240,15500000,Scheme 33 - Sector 19-A,Karachi,Low
+240,24800000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,8199999,Gadap Town,Karachi,Low
+240,7000000,Pir Ahmed Zaman Town,Karachi,Low
+240,8300000,Gadap Town,Karachi,Low
+240,18000000,Scheme 33,Karachi,Medium
+240,25000000,Scheme 33,Karachi,Medium
+240,28000000,Scheme 33 - Sector 35-A,Karachi,Medium
+240,6000000,Scheme 33 - Sector 27-A,Karachi,Low
+240,33000000,Gulistan-e-Jauhar,Karachi,Medium
+240,12000000,Scheme 33,Karachi,Low
+240,5300000,Gadap Town,Karachi,Low
+240,26500000,Naya Nazimabad,Karachi,Medium
+240,14000000,Scheme 33,Karachi,Low
+240,15500000,Scheme 33,Karachi,Low
+240,35000000,Gulistan-e-Jauhar,Karachi,Medium
+240,21500000,Scheme 33,Karachi,Medium
+240,10000000,Garden City,Karachi,Low
+240,8300000,Garden City,Karachi,Low
+240,8550000,Garden City,Karachi,Low
+240,8199999,Garden City,Karachi,Low
+240,8500000,Garden City,Karachi,Low
+240,4900000,Pir Ahmed Zaman Town,Karachi,Low
+240,31000000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,25000000,Gulistan-e-Jauhar,Karachi,Medium
+240,26500000,Scheme 33,Karachi,Medium
+240,15500000,Scheme 33 - Sector 25-A,Karachi,Low
+240,17000000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,5500000,Scheme 33 - Sector 27-A,Karachi,Low
+240,13500000,Taiser Town,Karachi,Low
+240,26000000,Scheme 33 - Sector 35-A,Karachi,Medium
+240,18000000,Scheme 33 - Sector 18-A,Karachi,Medium
+240,9500000,Scheme 33,Karachi,Low
+240,22500000,Scheme 33,Karachi,Medium
+240,5200000,Pir Ahmed Zaman Town,Karachi,Low
+240,4300000,Scheme 33,Karachi,Low
+240,15000000,Scheme 33,Karachi,Low
+240,31500000,Scheme 33 - Sector 15-A,Karachi,Medium
+240,10000000,Gulshan-e-Mehran,Karachi,Low
+240,23500000,Scheme 33,Karachi,Medium
+240,28000000,Scheme 33,Karachi,Medium
+240,24500000,Scheme 33 - Sector 15-A,Karachi,Medium
+240,7000000,Scheme 33 - Sector 20-A,Karachi,Low
+240,35000000,Gulshan-e-Iqbal,Karachi,Medium
+240,9000000,Gadap Town,Karachi,Low
+240,7500000,Gadap Town,Karachi,Low
+240,18500000,Scheme 33,Karachi,Medium
+240,8800000,Pir Ahmed Zaman Town,Karachi,Low
+240,8500000,Pir Ahmed Zaman Town,Karachi,Low
+240,8900000,Pir Ahmed Zaman Town,Karachi,Low
+240,8300000,Pir Ahmed Zaman Town,Karachi,Low
+240,14000000,Saadi Garden,Karachi,Low
+240,8800000,Scheme 33,Karachi,Low
+240,1050000,Hawks Bay Scheme 42,Karachi,Low
+240,600000,Hawks Bay Scheme 42,Karachi,Low
+240,1600000,Hawks Bay Scheme 42,Karachi,Low
+240,9000000,Mehran Town,Karachi,Low
+240,8500000,Mehran Town,Karachi,Low
+240,11500000,Korangi Industrial Area,Karachi,Low
+240,11500000,Scheme 33 - Sector 21-A,Karachi,Low
+240,8000000,Scheme 33 - Sector 20-A,Karachi,Low
+240,23000000,Scheme 33,Karachi,Medium
+240,24500000,Naya Nazimabad,Karachi,Medium
+240,7000000,National Highway,Karachi,Low
+240,1200000,Gadap Town,Karachi,Low
+240,8199999,Pir Ahmed Zaman Town,Karachi,Low
+240,18500000,Gulshan-e-Iqbal Town,Karachi,Medium
+240,9000000,Gulshan-e-Mehran,Karachi,Low
+240,6500000,Scheme 33,Karachi,Low
+240,8199999,Scheme 33 - Sector 26-A,Karachi,Low
+240,7300000,Scheme 33 - Sector 26-A,Karachi,Low
+240,7400000,Scheme 33 - Sector 26-A,Karachi,Low
+240,32500000,Gulistan-e-Jauhar,Karachi,Medium
+240,7100000,Korangi Industrial Area,Karachi,Low
+240,11000000,Garden City,Karachi,Low
+240,18000000,Gulshan-e-Iqbal Town,Karachi,Medium
+240,1500000,Hawks Bay Scheme 42,Karachi,Low
+240,13500000,Faisal Cantonment,Karachi,Low
+240,7500000,Saadi Garden,Karachi,Low
+240,5900000,Saadi Garden,Karachi,Low
+240,6000000,Saadi Garden,Karachi,Low
+240,11000000,Saadi Garden,Karachi,Low
+240,11200000,Saadi Garden,Karachi,Low
+240,15500000,Faisal Cantonment,Karachi,Low
+240,16000000,Scheme 33,Karachi,Low
+240,8500000,Scheme 33 - Sector 20-A,Karachi,Low
+240,12500000,Korangi Industrial Area,Karachi,Low
+240,24000000,Scheme 33,Karachi,Medium
+240,7500000,Korangi Industrial Area,Karachi,Low
+240,8000000,Pir Ahmed Zaman Town,Karachi,Low
+240,17000000,Scheme 33,Karachi,Medium
+240,14000000,Gadap Town,Karachi,Low
+240,11600000,Scheme 33,Karachi,Low
+240,17000000,Gulshan-e-Maymar,Karachi,Medium
+240,8000000,Scheme 45,Karachi,Low
+240,8000000,Scheme 33 - Sector 26-A,Karachi,Low
+240,17500000,Scheme 33,Karachi,Medium
+240,6500000,Scheme 33 - Sector 27-A,Karachi,Low
+240,30500000,Naya Nazimabad,Karachi,Medium
+240,13500000,Scheme 33,Karachi,Low
+240,7800000,Scheme 33 - Sector 26-A,Karachi,Low
+240,7200000,Karachi Motorway,Karachi,Low
+240,8000000,Scheme 33,Karachi,Low
+240,35500000,Gulistan-e-Jauhar,Karachi,Medium
+240,15700000,Scheme 33 - Sector 25-A,Karachi,Low
+240,35000000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,15200000,Scheme 33 - Sector 25-A,Karachi,Low
+240,9500000,Garden City,Karachi,Low
+240,9000000,Garden City,Karachi,Low
+240,27500000,Naya Nazimabad,Karachi,Medium
+240,23700000,Scheme 33 - Sector 35-A,Karachi,Medium
+240,8000000,Gadap Town,Karachi,Low
+240,7000000,Scheme 33 - Sector 49-A,Karachi,Low
+240,16300000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,8500000,Scheme 33,Karachi,Low
+240,18600000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,17300000,Scheme 33,Karachi,Medium
+240,17400000,Scheme 33 - Sector 25-A,Karachi,Medium
+240,30000000,Scheme 33,Karachi,Medium
+240,17500000,Gulshan-e-Iqbal Town,Karachi,Medium
+240,32500000,Scheme 33 - Sector 15-A,Karachi,Medium
+240,23500000,Naya Nazimabad,Karachi,Medium
+240,22500000,Naya Nazimabad,Karachi,Medium
+240,21500000,Naya Nazimabad,Karachi,Medium
+240,27000000,Scheme 33,Karachi,Medium
+240,8500000,Gadap Town,Karachi,Low
