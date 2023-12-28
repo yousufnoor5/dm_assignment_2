@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="10.2.000">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="10.2.000" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="read_csv" compatibility="10.2.000" expanded="true" height="68" name="Read CSV" width="90" x="45" y="289">
+        <parameter key="csv_file" value="/home/yousuf/Documents/DM Assignment/new/plots-datatset-final-v2.csv"/>
+        <parameter key="column_separators" value=","/>
+        <parameter key="trim_lines" value="false"/>
+        <parameter key="use_quotes" value="true"/>
+        <parameter key="quotes_character" value="&quot;"/>
+        <parameter key="escape_character" value="\"/>
+        <parameter key="skip_comments" value="true"/>
+        <parameter key="comment_characters" value="#"/>
+        <parameter key="starting_row" value="1"/>
+        <parameter key="parse_numbers" value="true"/>
+        <parameter key="decimal_character" value="."/>
+        <parameter key="grouped_digits" value="false"/>
+        <parameter key="grouping_character" value=","/>
+        <parameter key="infinity_representation" value=""/>
+        <parameter key="date_format" value=""/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="encoding" value="UTF-8"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="area.true.integer.attribute"/>
+          <parameter key="1" value="location_1.true.integer.attribute"/>
+          <parameter key="2" value="location_2.true.integer.attribute"/>
+          <parameter key="3" value="location_3.true.integer.attribute"/>
+          <parameter key="4" value="location_4.true.integer.attribute"/>
+          <parameter key="5" value="location_5.true.integer.attribute"/>
+          <parameter key="6" value="location_6.true.integer.attribute"/>
+          <parameter key="7" value="location_7.true.integer.attribute"/>
+          <parameter key="8" value="location_8.true.integer.attribute"/>
+          <parameter key="9" value="project.false.polynominal.attribute"/>
+          <parameter key="10" value="price.true.integer.label"/>
+          <parameter key="11" value="city_Islamabad.true.integer.attribute"/>
+          <parameter key="12" value="city_Karachi.true.integer.attribute"/>
+          <parameter key="13" value="city_Lahore.true.integer.attribute"/>
+          <parameter key="14" value="city_Peshawar.true.integer.attribute"/>
+          <parameter key="15" value="city_Rawalpindi.true.integer.attribute"/>
+          <parameter key="16" value="location.false.polynominal.attribute"/>
+          <parameter key="17" value="location_type_High.true.integer.attribute"/>
+          <parameter key="18" value="location_type_Low.true.integer.attribute"/>
+          <parameter key="19" value="location_type_Medium.true.integer.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+      </operator>
+      <operator activated="true" class="blending:split_data" compatibility="10.2.000" expanded="true" height="103" name="Split Data" width="90" x="313" y="238">
+        <enumeration key="partitions">
+          <parameter key="ratio" value="0.8"/>
+          <parameter key="ratio" value="0.2"/>
+        </enumeration>
+        <parameter key="sampling_type" value="automatic"/>
+        <parameter key="use_local_random_seed" value="false"/>
+        <parameter key="local_random_seed" value="1992"/>
+      </operator>
+      <operator activated="true" class="k_nn" compatibility="10.2.000" expanded="true" height="82" name="k-NN" width="90" x="514" y="34">
+        <parameter key="k" value="3"/>
+        <parameter key="weighted_vote" value="true"/>
+        <parameter key="measure_types" value="MixedMeasures"/>
+        <parameter key="mixed_measure" value="MixedEuclideanDistance"/>
+        <parameter key="nominal_measure" value="NominalDistance"/>
+        <parameter key="numerical_measure" value="EuclideanDistance"/>
+        <parameter key="divergence" value="GeneralizedIDivergence"/>
+        <parameter key="kernel_type" value="radial"/>
+        <parameter key="kernel_gamma" value="1.0"/>
+        <parameter key="kernel_sigma1" value="1.0"/>
+        <parameter key="kernel_sigma2" value="0.0"/>
+        <parameter key="kernel_sigma3" value="2.0"/>
+        <parameter key="kernel_degree" value="3.0"/>
+        <parameter key="kernel_shift" value="1.0"/>
+        <parameter key="kernel_a" value="1.0"/>
+        <parameter key="kernel_b" value="0.0"/>
+      </operator>
+      <operator activated="true" class="apply_model" compatibility="10.2.000" expanded="true" height="82" name="Apply Model" width="90" x="648" y="340">
+        <list key="application_parameters"/>
+      </operator>
+      <operator activated="true" class="performance" compatibility="10.2.000" expanded="true" height="82" name="Performance" width="90" x="715" y="136">
+        <parameter key="use_example_weights" value="true"/>
+      </operator>
+      <connect from_op="Read CSV" from_port="output" to_op="Split Data" to_port="example set"/>
+      <connect from_op="Split Data" from_port="partition 1" to_op="k-NN" to_port="training set"/>
+      <connect from_op="Split Data" from_port="partition 2" to_op="Apply Model" to_port="unlabelled data"/>
+      <connect from_op="k-NN" from_port="model" to_op="Apply Model" to_port="model"/>
+      <connect from_op="Apply Model" from_port="labelled data" to_op="Performance" to_port="labelled data"/>
+      <connect from_op="Apply Model" from_port="model" to_port="result 1"/>
+      <connect from_op="Performance" from_port="performance" to_port="result 2"/>
+      <connect from_op="Performance" from_port="example set" to_port="result 3"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
+      <portSpacing port="sink_result 4" spacing="0"/>
+    </process>
+  </operator>
+</process>
